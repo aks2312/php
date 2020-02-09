@@ -1,65 +1,65 @@
 #EXTM3U
-#EXTINF:0,& xplor HD
+#EXTINF:0,& xplor HD arv
 http://173.212.237.70/zee5.php?url=https://z5ams.akamaized.net/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/index.m3u8
-#EXTINF:0,Zee Bollywood
+#EXTINF:0,Zee Bollywood arv
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/classic/index.m3u8
-#EXTINF:0,Zee Action
+#EXTINF:0,Zee Action arv
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/action/index.m3u8
-#EXTINF:0,ZEE TV HD
+#EXTINF:0,ZEE TV HD arv
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvhd/index.m3u8
-#EXTINF:0,STAR PLUS HD
+#EXTINF:0,STAR PLUS HD arv
 http://hotstar.live.cdn.jio.com/hotstar_isl/starplushd/master_1800.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36 Hotstar;in.startv.hotstar/8.8.3 (Android/8.0.0) Lavf53.32.100 ExoPlayer/1.3.0 (Linux;Android 8.0.0) ExoPlayerLib/2.9.6 Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1 plaYtv/5.9.2 (Linux;Android 8.0.0) ExoPlayerLib/2.8.0"
-#EXTINF:0,SAB TV HD
+#EXTINF:0,SAB TV HD arv
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa
-#EXTINF:0,SONY WAH
+#EXTINF:0,SONY WAH arv
 https://sony247channels.akamaized.net/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa
-#EXTINF:0,SONY HD
+#EXTINF:0,SONY HD arv
 https://sony247channels.akamaized.net/hls/live/2009800/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1577007000_5db6054e2423d86179e85482e762c388/master_3500.m3u8
-#EXTINF:0,SET MAX HD
+#EXTINF:0,SET MAX HD arv
 https://sony247channels.akamaized.net/hls/live/2009802/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa
-#EXTINF:0,STAR GOLD HD
+#EXTINF:0,STAR GOLD HD arv
 http://staragold-i.akamaihd.net:80/hls/live/569910-b/staragold/master_1800.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36 Hotstar;in.startv.hotstar/8.8.3 (Android/8.0.0) Lavf53.32.100 ExoPlayer/1.3.0 (Linux;Android 8.0.0) ExoPlayerLib/2.9.6 Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1 plaYtv/5.9.2 (Linux;Android 8.0.0) ExoPlayerLib/2.8.0"
-#EXTINF:0,Shemaroo BOLLYWOOD PREMIER
+#EXTINF:0,Shemaroo BOLLYWOOD PREMIER arv
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/playlist_cf.m3u8
-#EXTINF:0,Shemaroo BOLLYWOOD CLASSIC
+#EXTINF:0,Shemaroo BOLLYWOOD CLASSIC arv
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/playlist_cf.m3u8
-#EXTINF:0, BOLLYWOOD CLASSIC-2
+#EXTINF:0, BOLLYWOOD CLASSIC-2 arv
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0,CINEMATV
+#EXTINF:0,CINEMATV arv
 https://acv.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
-#EXTINF:0, BOLLYWOOD CLASSIC-1
+#EXTINF:0, BOLLYWOOD CLASSIC-1 arv
 https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
-#EXTINF:0,SONY SIX HD
+#EXTINF:0,SONY SIX HD arv
 https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa
-#EXTINF:0,AXN HD
+#EXTINF:0,AXN HD arv
 https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa
-#EXTINF:0,ZEECINEMA HD
+#EXTINF:0,ZEECINEMA HD arv
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zcinemahd/index.m3u8
-#EXTINF:0,&pictures HD
+#EXTINF:0,&pictures HD arv
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andpicshd/index.m3u8
-#EXTINF:0,&Flix HD
+#EXTINF:0,&Flix HD arv
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflixhd/index.m3u8
-#EXTINF:0,ZEE CAFE HD
+#EXTINF:0,ZEE CAFE HD arv
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeecafehd/index.m3u8
-#EXTINF:0,&TV HD
+#EXTINF:0,&TV HD arv
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
-#EXTINF:0,&Prive HD
+#EXTINF:0,&Prive HD arv
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andprivehd/index.m3u8
-#EXTINF:0,Zee business
+#EXTINF:0,Zee business arv
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeebusiness/index.m3u8
-#EXTINF:0,Zee News
+#EXTINF:0,Zee News arv
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeenews/index.m3u8
-#EXTINF:0,Big magic
+#EXTINF:0,Big magic arv
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/bigmagic/index.m3u8
-#EXTINF:0,ZING
+#EXTINF:0,ZING arv
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zing/index.m3u8
-#EXTINF:0,ZEE ANMOL
+#EXTINF:0,ZEE ANMOL arv
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeeanmol/index.m3u8
-#EXTINF:0,MNX
+#EXTINF:0,MNX arv
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
-#EXTINF:0,STAR SPORTS 1
+#EXTINF:0,STAR SPORTS 1 arv
 http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8
-#EXTINF:0,STAR SPORTS 1 HD
+#EXTINF:0,STAR SPORTS 1 HD arv
 http://51.15.8.16:8081/ind1live/starsports1hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjAgNDoxNDozOSBBTSZoYXNoX3ZhbHVlPW1Mc2tIUE9hbWQxSnorUG1KUTYwb0E9PSZ2YWxpZG1pbnV0ZXM9Mg==
 #EXTINF:0,9XM zee
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/9xm/index.m3u8
@@ -71,9 +71,9 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/etc/index.m3u8
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
 #EXTINF:0,Kadak Hits
 http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8
-#EXTINF:0,Dsports HD 
+#EXTINF:0,Dsports HD arv
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
-#EXTINF:0,Republic Bharat
+#EXTINF:0,Republic Bharat arv
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8?hdnts=st=1581100145~exp=1581103145~acl=/*~hmac=cac2baa47ca75f31f770cf160ceab80d71868569e1068731569968afbfcd624d
 
 #EXTINF:0,The QYou HD
