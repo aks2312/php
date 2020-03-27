@@ -39,6 +39,18 @@ https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 http://www.sansat.net:25461/enNZs5C8QZSmR7N/up9kBIAYCoHlqUh/53882
 #EXTINF:0, Miniplex HD
 http://www.sansat.net:25461/enNZs5C8QZSmR7N/up9kBIAYCoHlqUh/53912
+#EXTINF:0, UTV HD
+http://www.sansat.net:25461/enNZs5C8QZSmR7N/up9kBIAYCoHlqUh/53937
+#EXTINF:0, UTV action
+http://www.sansat.net:25461/enNZs5C8QZSmR7N/up9kBIAYCoHlqUh/53936
+#EXTINF:0, TATASKY Premiere HD
+http://www.sansat.net:25461/enNZs5C8QZSmR7N/up9kBIAYCoHlqUh/53935
+#EXTINF:0, MTV beats HD
+http://www.sansat.net:25461/enNZs5C8QZSmR7N/up9kBIAYCoHlqUh/53915
+#EXTINF:0, MAX HD sansat
+http://www.sansat.net:25461/enNZs5C8QZSmR7N/up9kBIAYCoHlqUh/53855
+#EXTINF:0, SONY HD sansat
+http://www.sansat.net:25461/enNZs5C8QZSmR7N/up9kBIAYCoHlqUh/53854
 #EXTINF:0, Colors USA
 http://103.111.120.46/hls/Colors.m3u8
 #EXTINF:0, Colors UAE
