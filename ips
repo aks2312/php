@@ -75,7 +75,7 @@ http://staragold-i.akamaihd.net:80/hls/live/569910-b/staragold/master_1800.m3u8|
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:0,STAR GOLD 
 http://staragold-i.akamaihd.net:80/hls/live/569910-b/staragold/master_1800.m3u8
-EXTINF:-1, Star Gold Select
+EXTINF:0, Star Gold Select
 http://51.15.8.16:8081/ind1live/stargoldselect/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) tv/1.0.0 Chrome/66.0.3359.181 Safari/537.36
 #EXTINF:0,Shemaroo BOLLYWOOD PREMIER 
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/playlist_cf.m3u8
@@ -111,7 +111,7 @@ https://m-c04-j2apps.s.llnwi.net/hls/7000.HousefullMovie.in_480p/index.m3u8
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8
 #EXTINF:0, Multiplex
 https://m-c29-j2apps.s.llnwi.net/hls/3223.Multiplex.in_480p/index.m3u8
-#EXTINF:0, Multiplex
+#EXTINF:0, Movieplus
 https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in_480p/index.m3u8
 #EXTINF:0, Hindi Movies
 http://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
@@ -171,7 +171,7 @@ http://av.xemtivinet.net:8080/hls/cartoon/index.m3u8
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:0,Disney Movies
 http://217.160.65.197:25461/live/WEB/WEB/916.m3u8?_=1
-#EXTINF:-1, Tom & Jerry
+#EXTINF:0, Tom & Jerry
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
 #EXTINF:0,MNX 
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
@@ -605,17 +605,17 @@ http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
 #EXTINF:0 "Music Hindi",Kadak Hits
 http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8
 
-#EXTINF:-1, MTV Now
+#EXTINF:0, MTV Now
 http://unilivemtveu-lh.akamaihd.net:80/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on 
-#EXTINF:-1, Karaoke
+#EXTINF:0, Karaoke
 https://www.djing.com/tv/karaoke.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
-#EXTINF:-1, AAho Music
+#EXTINF:0, AAho Music
 https://v.viralshit.in/live/aahomusic.m3u8
-#EXTINF:-1, Zoom
+#EXTINF:0, Zoom
 https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_720_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,  Pop Pataka
+#EXTINF:0,  Pop Pataka
 https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8
-#EXTINF:-1, M20 Musics
+#EXTINF:0, M20 Musics
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (  KHTML, like Gecko) Chrome/69.0.3239.84 Safari/537.36"
 #EXTINF:0 "Music English",1 HD Music
 https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8 
@@ -637,23 +637,23 @@ https://strm.yandex.ru/kal/rmbox/rmbox0_169_1080p.json/index-v1-a1.m3u8
 http://rus.dishactive.xyz/live/eds/VH1/HLS_encr/VH1-avc1_2200000=53-mp4a_96000_eng=46.m3u8
 #EXTINF:0 "Music English",Viva
 http://85.143.202.116/hls/viva.m3u8
-#EXTINF:-1, VH1
+#EXTINF:0, VH1
 http://95.211.254.11:44477/vh1/mpegts
-#EXTINF:-1, Q Tv
+#EXTINF:0, Q Tv
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
-#EXTINF:-1, 92 News
+#EXTINF:0, 92 News
 https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-#EXTINF:-1, GEO News
+#EXTINF:0, GEO News
 https://stream1.jeem.tv/geo/geonews_abr/playlist.m3u8
-#EXTINF:-1, Dawn News
+#EXTINF:0, Dawn News
 http://stream.tapmad.com:1935/pitvlive2/dawnnews3/playlist.m3u8
-#EXTINF:-1, Ary
+#EXTINF:0, Ary
 http://158.69.229.29:8081/digital_abr/streamabr/playlist.m3u8
-#EXTINF:-1, Play Tv
+#EXTINF:0, Play Tv
 http://stream.tapmad.com:1935/pitvlive2/playmax3/playlist.m3u8?
-#EXTINF:-1, Express Tv
+#EXTINF:0, Express Tv
 http://stream.tapmad.com:1935/pitvlive2/express3/playlist.m3u8?
-#EXTINF:-1, Khyber Tv
+#EXTINF:0, Khyber Tv
 http://stream.tapmad.com:1935/pitvlive2/khyber3/playlist.m3u8?
-#EXTINF:-1, Nazrana
+#EXTINF:0, Nazrana
 http://linear08hun-lh.akamaihd.net:80/i/nazrana_1@673935/index_2128_av-p.m3u8?sd=10&rebase=on 
