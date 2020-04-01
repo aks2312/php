@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0,goldy
+http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_1800.m3u8|user-agent="Mozilla/5.0 (Linux; NetCast; U) AppleWwbKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.33 Safari/537.31 SmartTV/5.0"
 #EXTINF:0,DD Bharti
 https://m-c17-j2apps.s.llnwi.net/hls/0178.DDBharati.in_480p/index.m3u8
 #EXTINF:0,DD National
