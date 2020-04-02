@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,goldy
-http://185.152.64.54:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/tracks-v1a1/mono.m3u8?token=ffsuqJ610xC0Kj3M5XL7dQ%3D%3D%2C1585846105.1679989495
+http://185.152.64.54:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/index.m3u8?token=ffsuqJ610xC0Kj3M5XL7dQ==,1585846105.1679989495
 #EXTINF:0,DD Bharti
 https://m-c17-j2apps.s.llnwi.net/hls/0178.DDBharati.in_480p/index.m3u8
 #EXTINF:0,DD National
