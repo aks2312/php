@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,STARGOLD SELECT HD
-http://p5.giffy.be:8080/Testing1/Testing1/21055
+http://p5.giffy.be:8080/live/Testing1/Testing1/21055.m3u8
 #EXTINF:0,DD Bharti
 https://m-c17-j2apps.s.llnwi.net/hls/0178.DDBharati.in_480p/index.m3u8
 #EXTINF:0,DD National HD
@@ -8,7 +8,7 @@ http://173.212.237.70/zee5.php?url=https://z5ams.akamaized.net/out/v1/061be0ece7
 #EXTINF:0,DD National 
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 #EXTINF:0, UTV HD
-http://p5.giffy.be:8080/Testing1/Testing1/21059
+http://p5.giffy.be:8080/live/Testing1/Testing1/21059.m3u8
 #EXTINF:0,AAJTAK HD
 https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakevent/aajtak_6/chunklist.m3u8
 #EXTINF:0,&xplor HD 
@@ -20,11 +20,11 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/action/index.m3u8
 #EXTINF:0,ZEE TV HD 
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvhd/index.m3u8
 #EXTINF:0,ZEE TV HD-2
-http://p5.giffy.be:8080/Testing1/Testing1/21038
+http://p5.giffy.be:8080/live/Testing1/Testing1/21038.m3u8
 #EXTINF:0,ZEE TV 
 https://bracnet.iptv.jadoodigital.com/live/zee_tv/chunks.m3u8
 #EXTINF:0,STAR PLUS HD -1
-http://p5.giffy.be:8080/Testing1/Testing1/21040
+http://p5.giffy.be:8080/live/Testing1/Testing1/21040.m3u8
 #EXTINF:0,Star Plus HD -2
 https://bracnet.iptv.jadoodigital.com/live/star_plus_hd/chunks.m3u8
 #EXTINF:0,ZEE cinema -1
@@ -34,7 +34,7 @@ https://streamer-1.toffeelive.com/live/zee_cinema_576/index.m3u8
 #EXTINF:0,STAR BHARAT-1
 https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
 #EXTINF:0,STAR BHARAT-2
-http://p5.giffy.be:8080/Testing1/Testing1/21042
+http://p5.giffy.be:8080/live/Testing1/Testing1/21042.m3u8
 #EXTINF:0,SAB TV-1
 https://streamer-1.toffeelive.com/live/sony_sab_576/index.m3u8
 #EXTINF:0,SAB TV HD 
@@ -48,23 +48,23 @@ https://streamer-1.toffeelive.com/live/sony_entertainment_576/index.m3u8
 #EXTINF:0,Colors HD-A
 http://51.15.8.16:8081/lolind2/colorstvhd/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) tv/1.0.0 Chrome/66.0.3359.181 Safari/537.36
 #EXTINF:0,Colors HD-B
-http://p5.giffy.be:8080/Testing1/Testing1/21056
+http://p5.giffy.be:8080/live/Testing1/Testing1/21056.m3u8
 #EXTINF:0, Colors HD-C
 https://bracnet.iptv.jadoodigital.com/live/colors_hd/chunks.m3u8
 #EXTINF:0, Cineplex HD
-http://p5.giffy.be:8080/Testing1/Testing1/21039
+http://p5.giffy.be:8080/live/Testing1/Testing1/21039.m3u8
 #EXTINF:0, Miniplex HD
 http://www.sansat.net:25461/enNZs5C8QZSmR7N/up9kBIAYCoHlqUh/53912
 #EXTINF:0, UTV action
-http://p5.giffy.be:8080/Testing1/Testing1/21245
+http://p5.giffy.be:8080/live/Testing1/Testing1/21245.m3u8
 #EXTINF:0, TATASKY Premiere HD
 http://www.sansat.net:25461/enNZs5C8QZSmR7N/up9kBIAYCoHlqUh/53935
 #EXTINF:0, MTV beats HD
-http://p5.giffy.be:8080/Testing1/Testing1/21053
+http://p5.giffy.be:8080/live/Testing1/Testing1/21053.m3u8
 #EXTINF:0, MAX HD -----
-http://p5.giffy.be:8080/Testing1/Testing1/21063
+http://p5.giffy.be:8080/live/Testing1/Testing1/21063.m3u8
 #EXTINF:0, SONY HD ----
-http://p5.giffy.be:8080/Testing1/Testing1/21054
+http://p5.giffy.be:8080/live/Testing1/Testing1/21054.m3u8
 #EXTINF:0, Colors USA
 http://103.111.120.46/hls/Colors.m3u8
 #EXTINF:0, Colors UAE
@@ -88,7 +88,7 @@ http://staragold-i.akamaihd.net:80/hls/live/569910-b/staragold/master_1800.m3u8|
 #EXTINF:0,STAR GOLD -1
 https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
 #EXTINF:0,STAR GOLD 
-http://p5.giffy.be:8080/Testing1/Testing1/21058
+http://p5.giffy.be:8080/live/Testing1/Testing1/21058.m3u8
 EXTINF:0, Star Gold Select
 http://51.15.8.16:8081/ind1live/stargoldselect/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) tv/1.0.0 Chrome/66.0.3359.181 Safari/537.36
 #EXTINF:0,Shemaroo BOLLYWOOD PREMIER 
@@ -340,7 +340,7 @@ http://hotstar.live.cdn.jio.com/hotstar_isl/starplushd/master_1800.m3u8|user-age
 #EXTINF:0,AajTak HD jio
 https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakevent/aajtak_6/chunklist.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36 Hotstar;in.startv.hotstar/8.8.3 (Android/8.0.0) Lavf53.32.100 ExoPlayer/1.3.0 (Linux;Android 8.0.0) ExoPlayerLib/2.9.6 Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1 plaYtv/5.9.2 (Linux;Android 8.0.0) ExoPlayerLib/2.8.0"
 #EXTINF:0,AajTak HD TATASKY
-http://p5.giffy.be:8080/Testing1/Testing1/21207
+http://p5.giffy.be:8080/live/Testing1/Testing1/21207.m3u8
 #EXTINF:0,TLC 
 http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
 #EXTINF:0,FOOD FOOD
