@@ -7,10 +7,7 @@ http://zee18.site/zee/get.php?channel=out/v1/061be0ece7a849939ac2d9031f8fc532&e=
 #EXTINF:0,DD National 
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index.m3u8
 (http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8)
-#EXTINF:0, UTV HD
-http://p5.giffy.be:8080/live/Testing1/Testing1/21059.m3u8
-#EXTINF:0,AAJTAK HD
-https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakevent/aajtak_6/chunklist.m3u8
+
 #EXTINF:0,&xplor HD 
 http://zee18.site/zee/get.php?channel=out/v1/525714a3beef4b6a8eac1ca96ffd8f88&e=.m3u8
 #EXTINF:0,Zee Bollywood 
@@ -19,28 +16,18 @@ http://zee18.site/zee/get.php?channel=classic&e=.m3u8
 http://zee18.site/zee/get.php?channel=action&e=.m3u8
 #EXTINF:0,ZEE TV HD 
 http://zee18.site/zee/get.php?channel=zeetvhd&e=.m3u8
-#EXTINF:0,ZEE TV HD-2
-http://p5.giffy.be:8080/live/Testing1/Testing1/21038.m3u8
-#EXTINF:0,ZEE TV 
-https://bracnet.iptv.jadoodigital.com/live/zee_tv/chunks.m3u8
-#EXTINF:0,STAR PLUS HD -1
-http://p5.giffy.be:8080/live/Testing1/Testing1/21040.m3u8
+
 #EXTINF:0,Star Plus HD -2
 https://bracnet.iptv.jadoodigital.com/live/star_plus_hd/chunks.m3u8
-#EXTINF:0,Star Plus HS
-http://jiocdn.fun/my/h2x.php?c=starplushd&e=.m3u8
-#EXTINF:0,ZEE cinema
-https://bracnet.iptv.jadoodigital.com/live/zee_cinema/chunks.m3u8
+
+
 #EXTINF:0,ZEE cinema SD
 https://streamer-1.toffeelive.com/live/zee_cinema_576/index.m3u8
 #EXTINF:0,ZEE CINEMA HD
 http://zee18.site/zee/get.php?channel=zcinemahd&e=.m3u8
 #EXTINF:0,STAR BHARAT
 https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
-#EXTINF:0,STAR BHARAT 4k
-http://p5.giffy.be:8080/live/Testing1/Testing1/21042.m3u8
-#EXTINF:0,STAR BHARAT HS
-http://jiocdn.fun/my/h2x.php?c=starbharat&e=.m3u8
+
 #EXTINF:0,SAB TV SD
 https://streamer-1.toffeelive.com/live/sony_sab_576/index.m3u8
 #EXTINF:0,SAB TV HD 
@@ -51,26 +38,7 @@ https://sony247channels.akamaized.net/hls/live/2011906/SonyWah/master.m3u8?hdnea
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa#EXTINF:0,SET MAX -1
 #EXTINF:0,SONY SD
 https://streamer-1.toffeelive.com/live/sony_entertainment_576/index.m3u8
-#EXTINF:0,Colors HD 4k
-http://finest.my-homeip.net:8080/live/00:1A:79:00:09:CD/7mQ7qeesom/1368.m3u8
-#EXTINF:0,Colors HD
-http://p5.giffy.be:8080/live/Testing1/Testing1/21056.m3u8
-#EXTINF:0, Colors HD-C
-https://bracnet.iptv.jadoodigital.com/live/colors_hd/chunks.m3u8
-#EXTINF:0, Cineplex HD
-http://p5.giffy.be:8080/live/Testing1/Testing1/21039.m3u8
-#EXTINF:0, Miniplex HD
-http://www.sansat.net:25461/enNZs5C8QZSmR7N/up9kBIAYCoHlqUh/53912
-#EXTINF:0, UTV action
-http://p5.giffy.be:8080/live/Testing1/Testing1/21245.m3u8
-#EXTINF:0, MAX HD 4k
-http://p5.giffy.be:8080/live/Testing1/Testing1/21063.m3u8
-#EXTINF:0, SONY HD 4k
-http://p5.giffy.be:8080/live/Testing1/Testing1/21054.m3u8
-#EXTINF:0, Colors USA
-http://103.111.120.46/hls/Colors.m3u8
-#EXTINF:0, Colors UAE
-https://1784075063.rsc.cdn77.org/1784075063/tracks-v1a1/mono.m3u8
+
 #EXTINF:0,SET MAX FHD
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fahttps://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8?token=a700c2740eda36dc9f8a6155b0d28c1b"
 #EXTINF:0,SET MAX HD 
@@ -89,14 +57,11 @@ https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_480p/index.m3u8
 http://staragold-i.akamaihd.net:80/hls/live/569910-b/staragold/master_1800.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/31.0.1650.0 Safari/537.36 Hotstar;in.startv.hotstar/8.8.3 (Android/8.0.0) Lavf53.32.100 ExoPlayer/1.3.0 (Linux;Android 8.0.0) ExoPlayerLib/2.9.6 Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KAIOS, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1 plaYtv/5.9.2 (Linux;Android 8.0.0) ExoPlayerLib/2.8.0"
 #EXTINF:0,STAR GOLD 
 https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
-#EXTINF:0,STAR GOLD 4k
-http://p5.giffy.be:8080/live/Testing1/Testing1/21058.m3u8
-#EXTINF:0,STAR GOLD HS
-http://jiocdn.fun/my/h2x.php?c=stargold&e=.m3u8
+
+
 EXTINF:0, Star Gold Select
 http://51.15.8.16:8081/ind1live/stargoldselect/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) tv/1.0.0 Chrome/66.0.3359.181 Safari/537.36
-#EXTINF:0,STARGOLD SELECT 4k
-http://p5.giffy.be:8080/live/Testing1/Testing1/21055.m3u8
+
 #EXTINF:0,Shemaroo BOLLYWOOD PREMIER 
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/playlist_cf.m3u8
 #EXTINF:0,Shemaroo BOLLYWOOD CLASSIC
