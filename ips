@@ -1,326 +1,338 @@
-#EXTM3U
-#EXTINF:0,DD Bharti
-http://zee18.site/zee/get.php?channel=out/v1/03d04d1461114e9083d382ab0054ac2c&e=.m3u8
-(https://m-c17-j2apps.s.llnwi.net/hls/0178.DDBharati.in_480p/index.m3u8)
-#EXTINF:0,DD National HD
-http://zee18.site/zee/get.php?channel=out/v1/061be0ece7a849939ac2d9031f8fc532&e=index_6.m3u8
-#EXTINF:0,DD National 
+#EXTM3U 
+#EXTINF:-1,DD Bharti Zee
+http://bolly360.xyz/zee.php?c=out/v1/03d04d1461114e9083d382ab0054ac2c&e=.m3u8
+#EXTINF:-1, DD Bharti MX
+https://m-c17-j2apps.s.llnwi.net/hls/0178.DDBharati.in_480p/index.m3u8
+#EXTINF:-1, DD National HD Zee
+http://bolly360.xyz/zee.php?c=out/v1/061be0ece7a849939ac2d9031f8fc532&e=index_6.m3u8
+#EXTINF:-1,DD National MX
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index.m3u8
-(http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8)
-
-#EXTINF:0,&xplor HD 
-http://zee18.site/zee/get.php?channel=out/v1/525714a3beef4b6a8eac1ca96ffd8f88&e=.m3u8
-#EXTINF:0,Zee Bollywood 
-http://zee18.site/zee/get.php?channel=classic&e=.m3u8
-#EXTINF:0,Zee Action 
-http://zee18.site/zee/get.php?channel=action&e=.m3u8
-#EXTINF:0,ZEE TV HD 
-http://zee18.site/zee/get.php?channel=zeetvhd&e=.m3u8
-
-#EXTINF:0,Star Plus HD -2
-https://bracnet.iptv.jadoodigital.com/live/star_plus_hd/chunks.m3u8
-
-
-#EXTINF:0,ZEE cinema SD
-https://streamer-1.toffeelive.com/live/zee_cinema_576/index.m3u8
-#EXTINF:0,ZEE CINEMA HD
-http://zee18.site/zee/get.php?channel=zcinemahd&e=.m3u8
-#EXTINF:0,STAR BHARAT
-https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
-
-#EXTINF:0,SAB TV SD
-https://streamer-1.toffeelive.com/live/sony_sab_576/index.m3u8
-#EXTINF:0,SAB TV HD 
-https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa
-#EXTINF:0,SONY WAH 
-https://sony247channels.akamaized.net/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa
-#EXTINF:0,SONY HD 
-https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa#EXTINF:0,SET MAX -1
-#EXTINF:0,SONY SD
-https://streamer-1.toffeelive.com/live/sony_entertainment_576/index.m3u8
-
-#EXTINF:0,SET MAX FHD
-https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fahttps://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8?token=a700c2740eda36dc9f8a6155b0d28c1b"
-#EXTINF:0,SET MAX HD 
-https://streamer-1.toffeelive.com/live/set_max_hd_576/index.m3u8?token=a700c2740eda36dc9f8a6155b0d28c1b"
-#EXTINF:0,SONY MAX SD
-https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8??hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa
-#EXTINF:0, ZEE Epic 
-http://zee18.site/zee/get.php?channel=out/v1/71d7807e101d470fbac38441de9c674e&e=.m3u8
-#EXTINF:0, Epic tv
+#EXTINF:-1, DD National 
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+#EXTINF:-1, Epic tv
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
-#EXTINF:0, Sony MAX2
+#EXTINF:-1, ZEE TV HD 
+http://bolly360.xyz/zee.php?c=zeetvhd&e=.m3u8
+#EXTINF:-1, ZEE TV 
+https://bracnet.iptv.jadoodigital.com/live/zee_tv/chunks.m3u8
+#EXTINF:-1, Star Plus HD HOTSTAR
+https://starplushd-i.akamaihd.net:443/hls/live/569928-b/starplushd/master_1800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0"
+#EXTINF:-1,Star Plus HD
+https://bracnet.iptv.jadoodigital.com/live/star_plus_hd/chunks.m3u8
+#EXTINF:-1,Star Plus 
+http://109.169.56.170/hls/starplus.m3u8
+#EXTINF:-1, STAR BHARAT
+https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
+#EXTINF:-1,Star Bharat HD HOTSTAR
+http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_1800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0"
+#EXTINF:-1, Star Bharat ip
+http://109.169.56.170/hls/lifeok.m3u8
+#EXTINF:-1, Star Utsav
+http://starutsav-i.akamaihd.net/hls/live/569923-b/starutsav/master_1200.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
+#EXTINF:-1, SAB TV SD
+https://streamer-1.toffeelive.com/live/sony_sab_576/index.m3u8
+#EXTINF:-1, SAB TV FHD 
+https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa
+#EXTINF:-1, SONY FHD 
+https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa#EXTINF:0,SET MAX -1
+#EXTINF:-1, SONY SD
+https://streamer-1.toffeelive.com/live/sony_entertainment_576/index.m3u8
+#EXTINF:-1, SONY PAL
+https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa
+#EXTINF:-1, Colors HD
+https://bracnet.iptv.jadoodigital.com/live/colors_hd/chunks.m3u8
+#EXTINF:-1, Colors HD (B)
+https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+#EXTINF:-1, Apka Colors
+http://ok2.se:8000/live/35b8F1UxvM5ef5gbw/8272F1UYi5JY3e32s/6902.ts
+#EXTINF:-1,Big magic 
+http://bolly360.xyz/zee.php?c=bigmagic&e=.m3u8
+#EXTINF:-1,ZEE ANMOL 
+http://bolly360.xyz/zee.php?c=zeeanmol&e=.m3u8
+#EXTINF:-1,&TV 
+http://bolly360.xyz/zee.php?c=andtvsd&e=.m3u8
+#EXTINF:-1,&TV HD
+http://bolly360.xyz/zee.php?c=andtvhd&e=.m3u8
+#EXTINF:-1, &TV HD 
+http://45.120.188.76:8080/0.ts
+#EXTINF:-1,&xplor HD Zee
+http://bolly360.xyz/zee.php?c=out/v1/525714a3beef4b6a8eac1ca96ffd8f88&e=index_6.m3u8
+#EXTINF:-1,&pictures 
+http://bolly360.xyz/zee.php?c=andpicssd&e=.m3u8
+#EXTINF:-1,&pictures HD 
+http://bolly360.xyz/zee.php?c=andpicshd&e=.m3u8
+#EXTINF:-1,Zee Bollywood 
+http://bolly360.xyz/zee.php?c=classic&e=.m3u8
+#EXTINF:-1,Zee Bollywood ip
+https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
+#EXTINF:-1,Zee Action 
+http://bolly360.xyz/zee.php?c=action&e=.m3u8
+#EXTINF:-1,ZEE ANMOL CINEMA
+http://bolly360.xyz/zee.php?c=zanmolcnm&e=.m3u8
+#EXTINF:-1,ZEE cinema
+https://bracnet.iptv.jadoodigital.com/live/zee_cinema/chunks.m3u8
+#EXTINF:-1,ZEE cinema SD
+https://streamer-1.toffeelive.com/live/zee_cinema_576/index.m3u8
+#EXTINF:-1,ZEE CINEMA HD
+http://bolly360.xyz/zee.php?c=zcinemahd&e=.m3u8
+#EXTINF:-1,SONY WAH 
+https://sony247channels.akamaized.net/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa
+#EXTINF:-1,SET MAX FHD
+https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa
+#EXTINF:-1,SET MAX HD 
+https://streamer-1.toffeelive.com/live/set_max_hd_576/index.m3u8?token=a700c2740eda36dc9f8a6155b0d28c1b"
+#EXTINF:-1,SONY MAX SD
+https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8??hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa
+#EXTINF:-1, Sony MAX2
 https://sony247channels.akamaized.net/hls/live/2009816/MAX2/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne/master_3500.m3u8
-#EXTINF:0, Sony MAX2
+#EXTINF:-1, Sony MAX2 MX
 https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_480p/index.m3u8
-#EXTINF:0,STAR GOLD HD
-http://staragold-i.akamaihd.net:80/hls/live/569910-b/staragold/master_1800.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/31.0.1650.0 Safari/537.36 Hotstar;in.startv.hotstar/8.8.3 (Android/8.0.0) Lavf53.32.100 ExoPlayer/1.3.0 (Linux;Android 8.0.0) ExoPlayerLib/2.9.6 Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KAIOS, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1 plaYtv/5.9.2 (Linux;Android 8.0.0) ExoPlayerLib/2.8.0"
-#EXTINF:0,STAR GOLD 
+#EXTINF:-1,STAR GOLD 
 https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
-
-
-EXTINF:0, Star Gold Select
-http://51.15.8.16:8081/ind1live/stargoldselect/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) tv/1.0.0 Chrome/66.0.3359.181 Safari/537.36
-
-#EXTINF:0,Shemaroo BOLLYWOOD PREMIER 
+#EXTINF:-1,STAR GOLD2
+https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
+#EXTINF:-1, Star Gold HD HOTSTAR
+http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_1800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0"
+#EXTINF:-1,Shemaroo BOLLYWOOD PREMIER 
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/playlist_cf.m3u8
-#EXTINF:0,Shemaroo BOLLYWOOD CLASSIC
+#EXTINF:-1,Shemaroo BOLLYWOOD CLASSIC
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/playlist_cf.m3u8
-#EXTINF:0, BOLLYWOOD CLASSIC-2 
+#EXTINF:-1, BOLLYWOOD CLASSIC-2 
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0,CINEMATV 
-https://acv.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
-#EXTINF:0,GEM Bollywood
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8
-#EXTINF:0,WOW Cinema
-https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
-#EXTINF:0, Manoranjan TV
+#EXTINF:-1, Manoranjan TV
 http://streamidvo.multitvsolution.in/live/ManoranjanTV-b/p4.m3u8
-#EXTINF:0, B4U Kadak
+#EXTINF:-1, Manoranjan Movies
+http://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
+#EXTINF:-1, MahaMovies
+http://streamidvo.multitvsolution.in/live/MahaMovie-a/p4.m3u8
+#EXTINF:-1, B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:0, B4U Movies
+#EXTINF:-1, B4U Movies
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8
-#EXTINF:0, Bflix Movies
+#EXTINF:-1, Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-#EXTINF:0, Filmy
+#EXTINF:-1, Filmy
 https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in_480p/index.m3u8
-#EXTINF:0, Box Cinema
+#EXTINF:-1, Box Cinema
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
-#EXTINF:0, MBC Bollywood
-http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
-#EXTINF:0, Housefull Movies
+#EXTINF:-1, MBC Bollywood
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
+#EXTINF:-1, Housefull Movies
 https://m-c04-j2apps.s.llnwi.net/hls/7000.HousefullMovie.in_480p/index.m3u8
-#EXTINF:0, Bollywood.in
+#EXTINF:-1, Bollywood.in
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8
-#EXTINF:0, Multiplex
-https://m-c29-j2apps.s.llnwi.net/hls/3223.Multiplex.in_480p/index.m3u8
-#EXTINF:0, Movieplus
+#EXTINF:-1, Movieplus
 https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in_480p/index.m3u8
-#EXTINF:0, Hindi Movies
+#EXTINF:-1, Hindi Movies
 http://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
-#EXTINF:0, ABZY Movies 
+#EXTINF:-1, ABZY Dhakad 
 https://m-c01-j2apps.s.llnwi.net/hls/6641.SkystarFilme.in_480p/index.m3u8
-#EXTINF:0, Mahamovie
+#EXTINF:-1, ABZY Cool
+https://m-c03-j2apps.s.llnwi.net/hls/6640.SkystarMusic.in_480p/index.m3u8
+#EXTINF:-1, ABZY Movies
+https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in_480p/index.m3u8
+#EXTINF:-1, Mahamovie
 http://streamidvo.multitvsolution.in/live/MahaMovie-a/p4.m3u8 
-#EXTINF:0, BOLLYWOOD CLASSIC-1 
+#EXTINF:-1, BOLLYWOOD CLASSIC-1 
 https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
-#EXTINF:0,SONY SIX HD 
-https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa
-#EXTINF:0,AXN HD 
-https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa
-#EXTINF:0,AXN 
-http://210.210.155.66/h/h141/01.m3u8 
-#EXTINF:0,&pictures 
-http://zee18.site/zee/get.php?channel=andpicssd&e=.m3u8
-#EXTINF:0,&pictures HD 
-http://zee18.site/zee/get.php?channel=andpicshd&e=.m3u8
-#EXTINF:0,&Flix HD 
-http://zee18.site/zee/get.php?channel=andflixhd&e=.m3u8
-#EXTINF:0,MGM US
-https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
-#EXTINF:0,ZEE CAFE HD 
-http://zee18.site/zee/get.php?channel=zeecafehd&e=.m3u8
-#EXTINF:0,&TV 
-http://zee18.site/zee/get.php?channel=andtvsd&e=.m3u8
-#EXTINF:0,&TV HD
-http://zee18.site/zee/get.php?channel=andtvhd&e=.m3u8
-#EXTINF:0,&Prive HD 
-http://zee18.site/zee/get.php?channel=andprivehd&e=.m3u8
-#EXTINF:0,Big magic 
-http://zee18.site/zee/get.php?channel=bigmagic&e=.m3u8
-#EXTINF:0,ZEE ANMOL 
-http://zee18.site/zee/get.php?channel=zeeanmol&e=.m3u8
-#EXTINF:0,Discovery Kids
-http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
-#EXTINF:0,Sony YAY-1
-https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:0,Sony YAY-2
-https://streamer-1.toffeelive.com/live/sony_yay_720/index.m3u8
-#EXTINF:0, Shemaroo Kids
-https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8
-#EXTINF:0 "Kids",Boomerang
-http://livecdnh3.tvanywhere.ae/hls/boomerang/04.m3u8
-#EXTINF:0,Cartoon Network
-http://av.xemtivinet.net:8080/hls/cartoon/index.m3u8
-#EXTINF:0,Disney
-http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
-#EXTINF:0,Disney Movies
-http://217.160.65.197:25461/live/WEB/WEB/916.m3u8?_=1
-#EXTINF:0, Tom & Jerry
-https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
-#EXTINF:0,MNX 
-https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
-#EXTINF:0,STAR SPORTS1 A 
-http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8
-#EXTINF:0,STAR SPORTS1 B
-http://103.111.120.46/hls/star-sports-1-hd.m3u8
-#EXTINF:0,STAR SPORTS 1 HD 
-http://51.15.8.16:8081/ind1live/starsports1hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjAgNDoxNDozOSBBTSZoYXNoX3ZhbHVlPW1Mc2tIUE9hbWQxSnorUG1KUTYwb0E9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:0,Mastii
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
-#EXTINF:0,9XM zee
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/9xm/index.m3u8
-#EXTINF:0,9XM MX
-https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
-#EXTINF:0, B4U Music
-http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
-#EXTINF:0,ZING 
-http://zee18.site/zee/get.php?channel=zing&e=.m3u8
-#EXTINF:0, MTV beats HD
-http://p5.giffy.be:8080/live/Testing1/Testing1/21053.m3u8
-#EXTINF:0,9XM ST
-https://streamer-1.toffeelive.com/live/9xm_576/index.m3u8
-#EXTINF:0,ZOOM-1
-http://livecdnh1.tvanywhere.ae/hls/zoom/04.m3u8
-#EXTINF:0,ZOOM-2
-https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_720_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,MUSIC INDIA
-http://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
-#EXTINF:0,SONY YAY
-https://streamer-1.toffeelive.com/live/sony_yay_320/index.m3u8
-#EXTINF:0,Zee ETC 
-http://zee18.site/zee/get.php?channel=etc&e=.m3u8
-#EXTINF:0,Dil Se
-http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
-#EXTINF:0,Kadak Hits
-http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8
-#EXTINF:0,Punjabi Tadka 
-http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/index_2128_av-p.m3u8
+#EXTINF:-1, JOO MUSIC
+https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
+#EXTINF:-1, ZEE BIOSKOPE
+https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1582800787~exp=9007200837541778~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=3373fc972a6042253eb502f2a58546528e7a4c781c77664892a7a60985d54e3c&hdnts=st=1582800786~exp=1582800906~acl=/*~id=2515e6bc-88e0-4d01-80b8-c4a4ab64ff06~data=36.77.80.127~hmac=0f41a0b2c9d384b7b76cca94395bf0ebe4cc2e277c41eaeb7dbef2279a6550a7
 
-#EXTINF:0,Republic Bharat 
+#EXTINF:-1,AAJTAK HD
+https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakevent/aajtak_6/chunklist.m3u8
+#EXTINF:-1,SAHARA SAMAY
+https://m-c03-j2apps.s.llnwi.net/hls/0184.Samay.in_480p/index.m3u8
+#EXTINF:-1,Republic Bharat 
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8?hdnts=st=1581100145~exp=1581103145~acl=/*~hmac=cac2baa47ca75f31f770cf160ceab80d71868569e1068731569968afbfcd624d
-#EXTINF:0,CNBC Bajar
+#EXTINF:-1,CNBC Bajar
 https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
-#EXTINF:0,Zee business 
-http://zee18.site/zee/get.php?channel=zeebusiness&e=.m3u8
-#EXTINF:0,Zee News 
-http://zee18.site/zee/get.php?channel=zeenews&e=.m3u8
-#EXTINF:0,Zee HINDUSTAN
-http://zee18.site/zee/get.php?channel=hindustan&e=.m3u8
-#EXTINF:0,Zee Rajasthan
-http://zee18.site/zee/get.php?channel=rajasthan&e=.m3u8
-#EXTINF:0,FIRST INDIA RAJASTHAN
+#EXTINF:-1,Zee business 
+http://bolly360.xyz/zee.php?c=zeebusiness&e=.m3u8
+#EXTINF:-1,Zee News 
+http://bolly360.xyz/zee.php?c=zeenews&e=.m3u8
+#EXTINF:-1,Zee HINDUSTAN
+http://bolly360.xyz/zee.php?c=hindustan&e=.m3u8
+#EXTINF:-1,Zee Rajasthan
+http://bolly360.xyz/zee.php?c=rajasthan&e=.m3u8
+#EXTINF:-1,FIRST INDIA RAJASTHAN
 https://m-c03-j2apps.s.llnwi.net/hls/1872.FirstIndiaNewsRajasthan.in_480p/index.m3u8
-#EXTINF:0,News18 Rajasthan
+#EXTINF:-1,News18 Rajasthan
 https://news18rajasthan-lh.akamaihd.net/i/n18raj_1@175738/index_5_av-p.m3u8
-#EXTINF:0,Zee MP-CG
-http://zee18.site/zee/get.php?channel=newsmpcg&e=.m3u8
-#EXTINF:0, ABP NEWS HD 
+#EXTINF:-1,Zee MP-CG
+http://bolly360.xyz/zee.php?c=newsmpcg&e=.m3u8
+#EXTINF:-1, ABP NEWS HD 
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
-#EXTINF:0, Amar Ujala 
+#EXTINF:-1, Amar Ujala 
 https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
-#EXTINF:0, Janta Tv
+#EXTINF:-1, Janta Tv
 http://live.wmncdn.net/jantatv/live.stream/index.m3u8
-#EXTINF:0, 	AajTak Tez
+#EXTINF:-1, 	AajTak Tez
 https://vidcdn.vidgyor.com/tez-origin/liveabr/playlist.m3u8
-#EXTINF:0, AAj Tak Low qlty 
-http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
-#EXTINF:0, AAj Tak HD-1
-https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakevent/aajtak_6/chunklist.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
-#EXTINF:0,$ AajTak (Offcial)-2
+#EXTINF:-1, Surya samachar
+https://m-c037-j2apps.s.llnwi.net/hls/6006.SuryaSamachar.in_480p/index.m3u8
+#EXTINF:-1,$ AajTak (Offcial)-2
 https://atcdnhttps.r.worldssl.net/at-origin/desktoplive/playlist.m3u8
-#EXTINF:0,TV9 Gujarati
-https://m-c03-j2apps.s.llnwi.net/hls/0424.TV9Gujarati.in.m3u8
-#EXTINF:0,News18 Gujarati
+#EXTINF:-1,TV9 Gujarati
+https://m-c03-j2apps.s.llnwi.net/hls/0424.TV9Gujarati.in_480p/index.m3u8
+#EXTINF:-1,News18 Gujarati
 https://news18gujarati-lh.akamaihd.net/i/n18gujarat_1@370955/index_5_av-p.m3u8
-#EXTINF:0,VTV live
-https://cdn.smartstream.video/smartstream-us/vtvlive/vtvlive/chunklist_w1694613322.m3u8
-#EXTINF:0, 	News 24--
-https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-#EXTINF:0, 	News 24-
-https://m-c29-j2apps.s.llnwi.net/hls/0344.News24.in_480p/index.m3u8
-#EXTINF:0, 	News 24---
-https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
-#EXTINF:0, 	News NATION
-https://newsnation-i.akamaihd.net/hls/live/681878-b/newsnation04122019/master_2000k.m3u8
-(https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in.m3u8)
-#EXTINF:0, 	NDTV India
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@3.m3u8
-#EXTINF:0, India Tv
-https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_3@199237/chunks.m3u8
-#EXTINF:0, 	NDTV Profit
-https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/masterp_480p@3.m3u8
-#EXTINF:0, CNBC Awaaz
-https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0, 	ET Now
-https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,AL-JAZEERA
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:0, 	Republic
-https://hshlsdai-i.akamaihd.net/hls/live/568572-b/hsrepublic06122019/chunklist_2.m3u8
-#EXTINF:0, 	NDTV 24X7
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
-#EXTINF:0 "News",Bloomberg Quint
-https://d11s4g6fjkwvel.cloudfront.net/out/v1/6008c8c2598e47c197d5473f184669a8/bquint_6.m3u8
-#EXTINF:0 tvg-id="489" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png" "News",CNBC TV 18 D
-https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
-#EXTINF:0,CNN News 18 
-https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8
-#EXTINF:0,CNN News 18
-https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8
-#EXTINF:0,Wion News
-http://zee18.site/zee/get.php?channel=wion&e=.m3u8
-#EXTINF:0,Bloomberg Quint
-http://zee18.site/zee/get.php?channel=bquint&e=.m3u8
-#EXTINF:0,India Today
-https://vidcdn.vidgyor.com/it-origin/live1/playlist.m3u8
-#EXTINF:0 tvg-id="212" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ET_Now.png" "News",Et Now
-https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
-#EXTINF:0 tvg-id="491" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Magic_bricks_Now.png" "News",Mirror Now
-http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
-#EXTINF:0 tvg-id="876" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_HD.png" "News",Times Now HD
-https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
-#EXTINF:0 tvg-id="259" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png" "News",NDTV Profit
-https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/masterp_480p@5.m3u8
-#EXTINF:0 tvg-id="255" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" "News",NDTV 24x7
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@5.m3u8
-#EXTINF:0 , Lok Sabha
-https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0, DD News
-https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0, DD Kisan
-https://playhls.media.nic.in/live/ddkisan/index.m3u8
-#EXTINF:0, Rajyasabha
-https://nicls2-lh.akamaihd.net/i/rstv_1@26970/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0, ABP ASMITA 
+#EXTINF:-1, ABP ASMITA 
 https://abp-i.akamaihd.net/hls/live/765532/abpasmita/masterhls_1564.m3u8
-#EXTINF:0, ABP MAJHA 
+#EXTINF:-1,VTV live
+https://cdn.smartstream.video/smartstream-us/vtvlive/vtvlive/chunklist_w1694613322.m3u8
+#EXTINF:-1, 	News 24
+https://m-c29-j2apps.s.llnwi.net/hls/0344.News24.in_480p/index.m3u8
+#EXTINF:-1, 	News 24---
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+#EXTINF:-1, 	News NATION
+https://newsnation-i.akamaihd.net/hls/live/681878-b/newsnation04122019/master_2000k.m3u8
+#EXTINF:-1, 	News NATION MX
+https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in.m3u8
+#EXTINF:-1, 	NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@3.m3u8
+#EXTINF:-1, India Tv
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_3@199237/chunks.m3u8
+#EXTINF:-1, 	NDTV Profit
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/masterp_480p@3.m3u8
+#EXTINF:-1, CNBC Awaaz
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, 	ET Now
+https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,AL-JAZEERA
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1, 	Republic
+https://hshlsdai-i.akamaihd.net/hls/live/568572-b/hsrepublic06122019/chunklist_2.m3u8
+#EXTINF:-1, 	NDTV 24X7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
+#EXTINF:-1 ,Bloomberg Quint
+https://d11s4g6fjkwvel.cloudfront.net/out/v1/6008c8c2598e47c197d5473f184669a8/bquint_6.m3u8
+#EXTINF:-1 ,CNBC TV 18 D
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:-1,CNN News 18 
+https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8
+#EXTINF:-1,CNN News 18
+https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8
+#EXTINF:-1,Wion News
+http://bolly360.xyz/zee.php?c=wion&e=.m3u8
+#EXTINF:-1,Bloomberg Quint
+http://bolly360.xyz/zee.php?c=bquint&e=.m3u8
+#EXTINF:-1,India Today
+https://vidcdn.vidgyor.com/it-origin/live1/playlist.m3u8
+#EXTINF:-1 ,Et Now
+https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
+#EXTINF:-1 ,Mirror Now
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+#EXTINF:-1 ,Times Now HD
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+#EXTINF:-1 ,NDTV Profit
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/masterp_480p@5.m3u8
+#EXTINF:-1 ,NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@5.m3u8
+#EXTINF:-1 , Lok Sabha
+https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, DD News
+https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, DD Kisan
+https://playhls.media.nic.in/live/ddkisan/index.m3u8
+#EXTINF:-1, Rajyasabha
+https://nicls2-lh.akamaihd.net/i/rstv_1@26970/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, ABP MAJHA 
 https://abp-i.akamaihd.net/hls/live/765531/abpmajha/masterhls_1564.m3u8
 #EXTINF:-1, Sudarshan News
 http://sudarshan.live/hls/sudarshannews/index.m3u8?_=1582988583335
-
-#EXTINF:0, Bhakti SagarE24
-http://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/master.m3u8
-#EXTINF:0, DD News
-https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/index_1_av-p.m3u8?sd=10&rebase=on
-
-
-
-
-
-
-#EXTINF:0, TIMES NOW
+#EXTINF:-1, TIMES NOW
 http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
-#EXTINF:0, SANSKAR
-https://sanskarlive.sanskargroup.in/sanskartvlive.m3u8
+#EXTINF:-1,Mastii
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF:-1,9XM zee
+http://bolly360.xyz/zee.php?c=9xm&e=.m3u8
+#EXTINF:-1,9XM MX
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
+#EXTINF:-1, B4U Music
+http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
+#EXTINF:-1,ZING 
+http://bolly360.xyz/zee.php?c=zing&e=.m3u8
+#EXTINF:-1, MTV beats HD
+http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/mtvbeats/playlist.m3u8
+#EXTINF:-1, MTV beats 
+https://bracnet.iptv.jadoodigital.com/live/mtv_beats/chunks.m3u8
+#EXTINF:-1,9XM ST
+https://streamer-1.toffeelive.com/live/9xm_576/index.m3u8
+#EXTINF:-1, E24
+http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/indialpc@!2/e24/playlist.m3u8
+#EXTINF:-1,ZOOM-1
+http://livecdnh1.tvanywhere.ae/hls/zoom/04.m3u8
+#EXTINF:-1,ZOOM-2
+https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,MUSIC INDIA
+http://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
+#EXTINF:-1,Zee ETC 
+http://bolly360.xyz/zee.php?c=etc&e=.m3u8
+#EXTINF:-1,Dil Se
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
+#EXTINF:-1,Kadak Hits
+http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8
+#EXTINF:-1,Punjabi Tadka 
+http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/index_2128_av-p.m3u8
 
-#EXTINF:0, ENGLISH MOVIES
-http://stitcher.pluto.tv/stitch/hls/channel/553838c8c0b860c11a631f3a/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7caa3c2a-5d15-4c91-b093-7f93176fc22c&deviceId=08d323bf-061e-42cd-8a37-db1664fdefe4&deviceVersion=63.0&appVersion=2.2.1&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStor
-#EXTINF:0, WOW CINEMA
-https://acv.asianetmobiletvplus.com/channels/wowcinema_igicskjaphhfursggtaxnyzsqljoilbu/playlist.m3u8
-#EXTINF:0,Marvel Movies
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:0,Blockbuster
-http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
-#EXTINF:0,MOVIES NOW
-https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-#EXTINF:0,The QYou HD 
-https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720p/chunklist.m3u8
-#EXTINF:0,ROMEDY NOW
-https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 
-#EXTINF:0,AajTak HD TATASKY
-http://p5.giffy.be:8080/live/Testing1/Testing1/21207.m3u8
+#EXTINF:-1,SONY SIX HD 
+https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa
+#EXTINF:-1,STAR SPORTS1 HD HINDI
+http://195.181.169.120/StarSports_Hd1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,STAR SPORTS1 SD
+http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8
+#EXTINF:-1,STAR SPORTS1 B
+http://103.111.120.46/hls/star-sports-1-hd.m3u8
+#EXTINF:-1,STAR SPORTS 1 HD ENGLISH 
+http://195.181.169.120/StarSports_Hd4/playlist.m3u8
+#EXTINF:-1,Ten 1-A
+https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+#EXTINF:-1,Ten 1-B
+http://163.172.85.133:8080/TenS/1/index.m3u8
+#EXTINF:-1, TEN 2-A
+https://sony247channels.akamaized.net/hls/live/2004803/SONYTEN2HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+#EXTINF:-1, TEN 2-B
+http://163.172.85.133:8080/TenS/3/index.m3u8
+#EXTINF:-1, TEN 3
+https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+#EXTINF:-1, TEN S
+http://163.172.85.133:8080/TenS/1/index.m3u8
+#EXTINF:-1,Dsports HD 
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
+#EXTINF:-1, D Sports
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1, Dish POSITIVE
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/corona/corona.isml/index.m3u8?hdnts=st=1586268190~exp=1586271190~acl=/*~hmac=902f48dc1950d9be1a15e04dc8ed2e4c5a03259adf993575ab1904737474b429
+
+#EXTINF:-1,Discovery Kids
+http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
+#EXTINF:-1,NICK
+https://bracnet.iptv.jadoodigital.com/live/nickelodeon/chunks.m3u8
+#EXTINF:-1,Sony YAY-1
+https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1,Sony YAY-2
+https://streamer-1.toffeelive.com/live/sony_yay_576/index.m3u8
+#EXTINF:-1, Shemaroo Kids
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8
+#EXTINF:-1 "Kids",Boomerang
+http://livecdnh3.tvanywhere.ae/hls/boomerang/04.m3u8
+#EXTINF:-1,Cartoon Network
+http://av.xemtivinet.net:8080/hls/cartoon/index.m3u8
+#EXTINF:-1,Disney
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Disney Movies
+http://217.160.65.197:25461/live/WEB/WEB/916.m3u8?_=1
+#EXTINF:-1, Tom & Jerry
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
+
+
+
+
+
+
 #EXTINF:0,TLC 
 http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
 #EXTINF:0,FOOD FOOD
@@ -343,6 +355,8 @@ http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 https://bracnet.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:0,NatGeo People
 https://bracnet.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
+#EXTINF:0, History HD HINDI
+https://bracnet.iptv.jadoodigital.com/live/history_tv_hd/chunks.m3u8
 #EXTINF:0, History 2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/03.m3u8?sd=10&rebase=on
 #EXTINF:0, National Geographic
@@ -351,48 +365,47 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo/03.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
 #EXTINF:0 , National Geo People
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/03.m3u8
-#EXTINF:0,Ten 1-A
-https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:0,Ten 1-B
-http://163.172.85.133:8080/TenS/1/index.m3u8
-#EXTINF:0, TEN 2-A
-https://sony247channels.akamaized.net/hls/live/2004803/SONYTEN2HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:0, TEN 2-B
-http://163.172.85.133:8080/TenS/3/index.m3u8
-#EXTINF:0, TEN 3
-https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:0, TEN S
-http://163.172.85.133:8080/TenS/1/index.m3u8
-#EXTINF:0,Dsports HD 
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
-#EXTINF:0, Sony Six
-https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:0, ESPN
-https://sony247channels.akamaized.net/hls/live/2004800/SONYESPNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:0, D Sports
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
-#EXTINF:0, 	Sanskaar
-https://sanskarlive.sanskargroup.in/sanskartvlive.m3u8
+#EXTINF:-1,NASA TV
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1,Investigation Discovery
+http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:0, 	Satsang
 https://satsangtv.sanskargroup.in/satsangtvlive.m3u8
 #EXTINF:0, 	Sadhna
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
 #EXTINF:0, 	Shraddha
 http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
-#EXTINF:0,Divya
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/divyatv/index.m3u8
 #EXTINF:0 "Live Darshan", Shirdi Live
 https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525
+#EXTINF:0, SANSKAR
+https://sanskarlive.sanskargroup.in/sanskartvlive.m3u8
+#EXTINF:0, Bhakti SagarE24
+http://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/master.m3u8
 
-
-
-#EXTINF:0,HBO HD
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49557
-#EXTINF:0,WB
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49581
-#EXTINF:0,Movies Now 4k
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49562
-
+#EXTINF:-1,AXN FHD 
+https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa
+#EXTINF:-1,AXN 
+http://210.210.155.66/h/h141/01.m3u8 
+#EXTINF:-1,&Flix HD 
+http://bolly360.xyz/zee.php?c=andflixhd&e=.m3u8
+#EXTINF:-1,MGM US
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+#EXTINF:-1,ZEE CAFE HD 
+http://bolly360.xyz/zee.php?c=zeecafehd&e=.m3u8
+#EXTINF:-1,&Prive HD 
+http://bolly360.xyz/zee.php?c=andprivehd&e=.m3u8
+#EXTINF:0, ENGLISH MOVIES
+http://stitcher.pluto.tv/stitch/hls/channel/553838c8c0b860c11a631f3a/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7caa3c2a-5d15-4c91-b093-7f93176fc22c&deviceId=08d323bf-061e-42cd-8a37-db1664fdefe4&deviceVersion=63.0&appVersion=2.2.1&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStor
+#EXTINF:0,MOVIES NOW
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+#EXTINF:0,MNX 
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+#EXTINF:0,The QYou HD 
+https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720p/chunklist.m3u8
+#EXTINF:0,ROMEDY NOW
+https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:0, Star World
 https://bracnet.iptv.digijadoo.net/live/star_world/chunks.m3u8
 #EXTINF:0, 	Star Movies Middle east
@@ -401,34 +414,10 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8?sd=10&rebase=on
 http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8?sd=10&rebase=on
 #EXTINF:0,Pluto Movies
 http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-
-#EXTINF:0,Sony Pix HD
+#EXTINF:0,Sony Pix FHD
 https://sony247channels.akamaized.net/hls/live/2009804/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1575646200_e09258cce6514d3deec5608118efddc9"
 #EXTINF:0,Star Movies HD
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
-#EXTINF:0,Star Movies SELECT
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49571
-#EXTINF:0,Star World premiere HD
-http://185.152.64.100:2540000061/O0u0uimtYjK6gzA/4cKC3SXABQbPinv/34685?token=H0BdAEBeQA0WDFNSAFMLB1ADA1FVV19aAFZRVFdXBQZRUwNTBQJSVgEaHkNDRkoEVw9tDVJBXAoAAANXGBBFFwEQaghXFFgVDAECUQMLGk0UFlsJU0FcCAEDAFYABQRTU04XEVpSQA0WCwRZAwsJQxpAVxxCBhRXVVhoBlFEWQcBQA8PRloOGxZXXD5UV1UAWAYQXhRTRBUWXUQSFgheEQgOGUNRXxZFVUxXQwoQClkEUxBIFAAJTFpARRsWCBItKkAZQ1ZOFlJaS1sOXhACQ0IREEgUChVmRlFEFkZXUQkBEBdbEQZAGxZVUxlvUVcPWAdREF8MCEoWDhVTFh4SCQsMXBVcRD1HXVwQWxIGCFkDUgNGSw=="
-#EXTINF:0, Hollywood Movies 1
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:0, Hollywood Movies 2
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:0, Hollywood Movies 3
-http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1_1200.m3u8
-#EXTINF:0, Hollywood Movies 4
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-EXTINF:0, Hollywood Movies 5
-http://tx.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:0,HBO
-http://103.118.76.229:1935/tvprogram/HBO/chunklist_w1104723003.m3u8
-#EXTINF:0,HBO 2
-http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/987.m3u8
-#EXTINF:0,UTV Action
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43939
-#EXTINF:0,UTV HD
-http://89.187.191.77:25461/O0u0uimtYjK6gzA/4cKC3SXABQbPinv/72240?token=H0BdAEBeQA0WCQNVBwpbVQRbU1wGVlRdBVEDVQQBCQFcUVFWUgEGBgYaHkNDRkoEVw9tDVJBXA4GBgNSGBBFFwEQaghXFFgVDAECUQMLGk0UFlsJU0FcCAEDD1cDCglVV04XEVpSQA0WCgdRBQEIQxpAVxxCBhRXVVhoBlFEWQcBQA8PRloOGxZXXD5UV1UAWAYQXhRTRBUWXUQSFgheEQgOGUNRXxZFVUxXQwoQClkBVhBIFAAJTFpARRsWCBItKkAZQ1ZOFlJaS1sOXhACQ0IREEgUChVmRlFEFkZXUQkBEBdbEQZAGxZVUxlvUVcPWAdREF8MCEoWDhVTFh4SCQsMXBVcRD1HXVwQWxIADlAHURAZ"
 #EXTINF:0 tvg-logo="https://www.embratoria.net/uploads/tv_image/mbc-2-hd.png" "English",MBC2 HD
 http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
 #EXTINF:0 tvg-logo="https://www.embratoria.net/uploads/tv_image/mbc-4-hd.png" "English",MBC4 HD
@@ -439,73 +428,18 @@ http://livecdnh3.tvanywhere.ae/hls/mbcaction/03.m3u8
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/03.m3u8
 #EXTINF:0, AXN
 http://av.xemtivinet.net:8080/hls/axn/index.m3u8
-
-
-#EXTINF:0,Vh1 music
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49580
-#EXTINF:0,Mix music
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
-#EXTINF:0,MTV hits
-http://stream.tvtap.live:8081/live/mtvhits.stream/chunks.m3u8?nimblesessionid=5711955044&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAxOSA3OjI4OjQ3IEFNJmhhc2hfdmFsdWU9WTFXbTNTeStDU1h0eW5mdzZoRUpQQT09JnZhbGlkbWludXRlcz0yMA=="
-#EXTINF:0,Dil se
-http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
-#EXTINF:0,B4U Music
-http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/index.m3u8
-#EXTINF:0,ZOOM
-https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_480_av-p.m3u8%7Cuser-agent=
-
-#EXTINF:0,9XM
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/9xm/index.m3u8
-
-#EXTINF:0,&xplorHDDDD
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/1409.ts
-#EXTINF:0,MTV beats
-http://89.187.191.77:25461/O0u0uimtYjK6gzA/4cKC3SXABQbPinv/72215?token=H0BdAEBeQA0WXAJQBwIBAFcGBwEHVVILBAUFBwZUB1QBAQEHBVcGVg0aHkNDRkoEVw9tDVJBXA4GBgZXGBBFFwEQaghXFFgVDAECUQMLGk0UFlsJU0FcCAEDDlYABQlTV04XEVpSQA0WCgBQBwUJQxpAVxxCBhRXVVhoBlFEWQcBQA8PRloOGxZXXD5UV1UAWAYQXhRTRBUWXUQSFgheEQgOGUNRXxZFVUxXQwoQClgOVhBIFAAJTFpARRsWCBItKkAZQ1ZOFlJaS1sOXhACQ0IREEgUChVmRlFEFkZXUQkBEBdbEQZAGxZVUxlvUVcPWAdREF8MCEoWDhVTFh4SCQsMXBVcRD1HXVwQWxIEDFQFWhAZ"
-#EXTINF:0, MBC BOLLYWOOD
-http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
-#EXTINF:0, BOLLYWOOD CLASSIC
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0,group-title="HINDI", ENTER 10
-http://cdn.asianetmobiletvplus.com/channels/enterten_oppmidgajwnahpvbruqpuyuxjjxlochb/playlist.m3u8
-
-
-
-#EXTINF:0,Colors updated
-http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/62111.m3u8
-#EXTINF:0,Star Plus
-http://52.66.207.99/h.php?c=starplushd&e=.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
-#EXTINF:0,Star Bharat HD
-http://52.66.207.99/h.php?c=starbharat&e=.m3u8
+EXTINF:-1,HBO
+https://delivery.macan.live/stream/hbo/index.m3u8?token=Yq91Jdf0&v=20200308
+EXTINF:-1,horror channel
+http://78.110.169.226:8000/play/a03a
+#EXTINF:-1, Fox Movies
+http://vtv.iptvfree.gq:2086/live/foxmovies.m3u8
+#EXTINF:-1, Fox Action Movies
+http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 
 
 
 
-#EXTINF:0,TV9 Bharatvarsh HIGH
-https://hshlsnews4-i.akamaihd.net/hls/live/571523/tv9bharatvarshevent/tv9bharatvarsh_6/chunklist.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
-#EXTINF:0,TV9 Bharatvarsh LOW
-https://hshlsnews4-i.akamaihd.net/hls/live/571523/tv9bharatvarshevent/tv9bharatvarsh_5/chunklist.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
-#EXTINF:0,News18 India
-https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
-#EXTINF:0,AajTak (Offcial)
-https://atcdnhttps.r.worldssl.net/at-origin/desktoplive/playlist.m3u8
-#EXTINF:0,AajTak HD H
-https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakevent/aajtak_6/chunklist.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
-#EXTINF:0,AajTak HD L
-https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakevent/aajtak_5/chunklist.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
-#EXTINF:0,TEZ News
-https://hsaajtak-i.akamaihd.net/hls/live/719730/tezevent/tez_6/chunklist.m3u8
-#EXTINF:0,India TV
-https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_1@199237/chunks.m3u8
-#EXTINF:0,ABP Hindi
-https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
-#EXTINF:0,ABP Hindi
-https://abp-i.akamaihd.net/hls/live/765529-b/abphindi/masterhls_1564.m3u8
-#EXTINF:0,CNBC Awaaz HIGH
-https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,CNBC Awaaz LOW
-https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_4_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,Janta TV
-http://live.wmncdn.net/jantatv/live.stream/index.m3u8
 #EXTINF:0,Discovery Showcase
 http://95.170.215.118/hls/m3u8/Discovery-Showca.m3u8|user-agent="Lavf/56.15.102"
 #EXTINF:0,Nat Geo HD
@@ -524,95 +458,49 @@ http://95.170.215.118/hls/m3u8/Animal-Planet.m3u8|user-agent="Lavf/56.15.102"
 http://wma10.fluidstream.net:1935/HistoryLab/livestream/chunklist_w1659750600.m3u8
 #EXTINF:0,CGTN Documentary Aus.
 http://live.cgtn.com/cctv-d.m3u8
-#EXTINF:0,Foodie
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
-#EXTINF:0,Better Nature US
-http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
-#EXTINF:0,Better Life US
-#http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
-#EXTINF:0,Better Health US
-http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
-#EXTINF:0,Planet Green
-http://80.80.160.168/live/4/live.m3u8
-#EXTINF:0,Insight
-http://jiocgwhub.jio.ril.com/Insight/Insight_600.m3u8
 
 
-#EXTINF:0,Star sports 1
-http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8
-#EXTINF:0,HOTSTAR cricket FHD
-https://live15p.hotstar.com/hls/live/2004211/nzvsind2020/hin/15mindvr1440006264pxrzmzwj8r24january2020/master_4.m3u8|user-agent=KAIOS/2.0
-#EXTINF:0,Star sports Select 1
-http://109.169.56.170/hls/starsportsselect1.m3u8
-#EXTINF:0,Fashion TV HD
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
+
 #EXTINF:0,FTV High
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:0,FTV Med
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:0,FTV Low
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
-#EXTINF:0,Fashion TV Paris
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 #EXTINF:0,Fashion TV Midnite
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:0 "Music Hindi",Artist Aloud
-https://linear10hun-lh.akamaihd.net/i/artistaloud_1@741583/master.m3u8
-#EXTINF:0 "Music Hindi",Dil Se
-http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
-#EXTINF:0 "Music Hindi",Kadak Hits
-http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8
 
-#EXTINF:0, MTV Now
-http://unilivemtveu-lh.akamaihd.net:80/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on 
-#EXTINF:0, Karaoke
-https://www.djing.com/tv/karaoke.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
 #EXTINF:0, AAho Music
 https://v.viralshit.in/live/aahomusic.m3u8
-
-#EXTINF:0,  Pop Pataka
-https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8
-#EXTINF:0, M20 Musics
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (  KHTML, like Gecko) Chrome/69.0.3239.84 Safari/537.36"
-#EXTINF:0 "Music English",1 HD Music
-https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8 
-#EXTINF:0 "Music English",Country Network
-https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
-#EXTINF:0 "Music English",Djing
-https://www.djing.com/tv/28693-04.m3u8
-#EXTINF:0 "Music English",Hit Music
-http://hitmusic.hu/hitmusic.m3u8
-#EXTINF:0 "Music English",Hit TV
-http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
-#EXTINF:0 "Music English",Music Choice
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:0 "Music English",NRJ Hits
-https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
-#EXTINF:0 "Music English",Music Box Russia
-https://strm.yandex.ru/kal/rmbox/rmbox0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:0 "Music English",VH1
-http://rus.dishactive.xyz/live/eds/VH1/HLS_encr/VH1-avc1_2200000=53-mp4a_96000_eng=46.m3u8
+#EXTINF:0, VH1
+https://bracnet.iptv.jadoodigital.com/live/vh1/chunks.m3u8
 #EXTINF:0 "Music English",Viva
 http://85.143.202.116/hls/viva.m3u8
-#EXTINF:0, VH1
-http://95.211.254.11:44477/vh1/mpegts
-#EXTINF:0, Q Tv
-https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
-#EXTINF:0, 92 News
-https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-#EXTINF:0, GEO News
-https://stream1.jeem.tv/geo/geonews_abr/playlist.m3u8
-#EXTINF:0, Dawn News
-http://stream.tapmad.com:1935/pitvlive2/dawnnews3/playlist.m3u8
-#EXTINF:0, Ary
-http://158.69.229.29:8081/digital_abr/streamabr/playlist.m3u8
-#EXTINF:0, Play Tv
-http://stream.tapmad.com:1935/pitvlive2/playmax3/playlist.m3u8?
-#EXTINF:0, Express Tv
-http://stream.tapmad.com:1935/pitvlive2/express3/playlist.m3u8?
-#EXTINF:0, Khyber Tv
-http://stream.tapmad.com:1935/pitvlive2/khyber3/playlist.m3u8?
-#EXTINF:0, Nazrana
-http://linear08hun-lh.akamaihd.net:80/i/nazrana_1@673935/index_2128_av-p.m3u8?sd=10&rebase=on 
-#EXTINF:0,The QYou HD 
-https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720p/chunklist.m3u8
+#EXTINF:0,STAR JALSHA
+http://ddn.amrbd.com:8081/live/starjalsha/playlist.m3u8
+#EXTINF:0,MH PRIME
+http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
+#EXTINF:0,Desi punjab
+http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
+#EXTINF:0,P TUNES PUNJABI
+https://streamidvo.multitvsolution.in/live/PTunes-d/p4.m3u8
+#EXTINF:0, FASTWAY NEWS
+http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
