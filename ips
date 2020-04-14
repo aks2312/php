@@ -20,13 +20,13 @@ https://starplushd-i.akamaihd.net:443/hls/live/569928-b/starplushd/master_1800.m
 #EXTINF:-1,Star Plus HD
 https://bracnet.iptv.jadoodigital.com/live/star_plus_hd/chunks.m3u8
 #EXTINF:-1,Star Plus 
-http://109.169.56.170/hls/starplus.m3u8
+http://109.169.56.170/hls/starplus.m3u8|user-agent=oxoo/3.0.1 (Linux;Android 9) ExoPlayerLib/2.7.3
 #EXTINF:-1, STAR BHARAT
 https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
 #EXTINF:-1,Star Bharat HD HOTSTAR
 http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_1800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0"
 #EXTINF:-1, Star Bharat ip
-http://109.169.56.170/hls/lifeok.m3u8
+http://109.169.56.170/hls/lifeok.m3u8|user-agent=oxoo/3.0.1 (Linux;Android 9) ExoPlayerLib/2.7.3
 #EXTINF:-1, Star Utsav
 http://starutsav-i.akamaihd.net/hls/live/569923-b/starutsav/master_1200.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
 #EXTINF:-1, SAB TV SD
@@ -182,6 +182,8 @@ https://news18gujarati-lh.akamaihd.net/i/n18gujarat_1@370955/index_5_av-p.m3u8
 https://abp-i.akamaihd.net/hls/live/765532/abpasmita/masterhls_1564.m3u8
 #EXTINF:-1,VTV live
 https://cdn.smartstream.video/smartstream-us/vtvlive/vtvlive/chunklist_w1694613322.m3u8
+#EXTINF:-1,ABP GANGA
+https://m-c02-j2apps.s.llnwi.net/hls/7017.ABPGanga.in_480p/index.m3u8
 #EXTINF:-1, 	News 24
 https://m-c29-j2apps.s.llnwi.net/hls/0344.News24.in_480p/index.m3u8
 #EXTINF:-1, 	News 24---
@@ -194,6 +196,8 @@ https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in.m3u8
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@3.m3u8
 #EXTINF:-1, India Tv
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_3@199237/chunks.m3u8
+#EXTINF:-1, India Tv MX
+https://m-c02-j2apps.s.llnwi.net/hls/0091.IndiaTV.in_480p/index.m3u8
 #EXTINF:-1, 	NDTV Profit
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/masterp_480p@3.m3u8
 #EXTINF:-1, CNBC Awaaz
@@ -272,6 +276,8 @@ http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
 http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8
 #EXTINF:-1,Punjabi Tadka 
 http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/index_2128_av-p.m3u8
+#EXTINF:-1,E-24
+https://m-c29-j2apps.s.llnwi.net/hls/0389.E24.in_360p/index.m3u8
 
 
 #EXTINF:-1,SONY SIX HD 
@@ -426,6 +432,8 @@ http://livecdnh3.tvanywhere.ae/hls/mbcmax/03.m3u8
 http://av.xemtivinet.net:8080/hls/axn/index.m3u8
 EXTINF:-1,HBO
 https://delivery.macan.live/stream/hbo/index.m3u8?token=Yq91Jdf0&v=20200308
+EXTINF:-1,HBO--
+http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 EXTINF:-1,horror channel
 http://78.110.169.226:8000/play/a03a
 #EXTINF:-1, Fox Movies
