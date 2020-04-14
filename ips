@@ -371,8 +371,8 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/03.m3u8
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1,Investigation Discovery
 http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
-
-
+#EXTINF:0, Divya Tv
+http://bolly360.xyz/zee.php?c=divyatv&e=.m3u8
 #EXTINF:0, 	Satsang
 https://satsangtv.sanskargroup.in/satsangtvlive.m3u8
 #EXTINF:0, 	Sadhna
@@ -489,17 +489,15 @@ http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8
 
 
 
+#EXTINF:0, Zee Tamil
+http://bolly360.xyz/zee.php?c=zeetamil&e=.m3u8
+
+#EXTINF:0, Zee cinemalu
+http://bolly360.xyz/zee.php?c=zcinemalusd&e=.m3u8
 
 
-
-
-
-
-
-
-
-
-
+#EXTINF:0,Raj musix Tamil
+http://bolly360.xyz/zee.php?c=rajmusix&e=.m3u8
 
 
 
