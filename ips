@@ -7,8 +7,8 @@ https://m-c17-j2apps.s.llnwi.net/hls/0178.DDBharati.in_480p/index.m3u8
 http://bolly360.xyz/zee.php?c=out/v1/061be0ece7a849939ac2d9031f8fc532&e=index_6.m3u8
 #EXTINF:-1,DD National MX
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index.m3u8
-#EXTINF:-1, DD National 
-http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+#EXTINF:-1, Zeetv 4k
+http://89.187.169.204:2200/R-EX/HINDI_ZEE_TV_HD-in/tracks-v1a1/mono.m3u8?token=RED_-y7OExKnJsJkycrfwlw86Q==,1587088800.0123456789
 #EXTINF:-1, Epic tv
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 #EXTINF:-1, ZEE TV HD 
@@ -35,15 +35,16 @@ https://streamer-1.toffeelive.com/live/sony_sab_576/index.m3u8
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa
 #EXTINF:-1, SONY FHD 
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa#EXTINF:0,SET MAX -1
-#EXTINF:-1, SONY SD
-https://streamer-1.toffeelive.com/live/sony_entertainment_576/index.m3u8
+#EXTINF:-1, SONY HD
+http://89.187.169.204:2200/R-EX/HINDI_SONY_HD-in/tracks-v1a1/mono.m3u8?token=RED_-y7OExKnJsJkycrfwlw86Q==,1587088800.0123456789
 #EXTINF:-1, SONY PAL
 https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa
 #EXTINF:-1, Colors HD
 https://bracnet.iptv.jadoodigital.com/live/colors_hd/chunks.m3u8
 #EXTINF:-1, Colors HD (B)
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
-#EXTINF:-1, Apka Colors
+#EXTINF:-1, Apka Colors 4k
+http://89.187.169.204:2200/R-EX/HINDI_COLORS_HD-in/tracks-v1a1/mono.m3u8?token=RED_-y7OExKnJsJkycrfwlw86Q==,1587088800.0123456789
 http://ok2.se:8000/live/35b8F1UxvM5ef5gbw/8272F1UYi5JY3e32s/6902.ts
 #EXTINF:-1,Big magic 
 http://bolly360.xyz/zee.php?c=bigmagic&e=.m3u8
@@ -61,6 +62,8 @@ http://bolly360.xyz/zee.php?c=out/v1/525714a3beef4b6a8eac1ca96ffd8f88&e=index_6.
 http://bolly360.xyz/zee.php?c=andpicssd&e=.m3u8
 #EXTINF:-1,&pictures HD 
 http://bolly360.xyz/zee.php?c=andpicshd&e=.m3u8
+#EXTINF:-1,&pictures HD new
+http://89.187.169.202:2200/R-EX/HINDI_AND_PICTURES_HD-in/tracks-v1a1/mono.m3u8?token=RED_EXLIayyBgkMuks01nZYukg%3D%3D%2C1587217654.1679989495
 #EXTINF:-1,Zee Bollywood 
 http://bolly360.xyz/zee.php?c=classic&e=.m3u8
 #EXTINF:-1,Zee Bollywood ip
@@ -75,6 +78,8 @@ https://bracnet.iptv.jadoodigital.com/live/zee_cinema/chunks.m3u8
 https://streamer-1.toffeelive.com/live/zee_cinema_576/index.m3u8
 #EXTINF:-1,ZEE CINEMA HD
 http://bolly360.xyz/zee.php?c=zcinemahd&e=.m3u8
+#EXTINF:-1,ZEE CINEMA 4k
+http://185.59.222.236:2200/R-EX/HINDI_ZEE_CINEMA_HD-in/tracks-v1a1/mono.m3u8?token=RED_R32TA8qe3X1isU41Qvj9YQ%3D%3D%2C1587217730.1679989495
 #EXTINF:-1,SONY WAH 
 https://sony247channels.akamaized.net/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa
 #EXTINF:-1,SET MAX FHD
@@ -87,12 +92,20 @@ https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8??hd
 https://sony247channels.akamaized.net/hls/live/2009816/MAX2/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne/master_3500.m3u8
 #EXTINF:-1, Sony MAX2 MX
 https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_480p/index.m3u8
+#EXTINF:-1,STAR GOLD TSKY
+http://51.178.220.156/?watch=R-EX/HINDI_STAR_GOLD_HD-in&token=RED_m4NjPb61hSPTyR7Dmz0e2Q==,1587218144.1679989495&t=1&s=2&p=1&c=TR&r=19
 #EXTINF:-1,STAR GOLD 
 https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
 #EXTINF:-1,STAR GOLD2
 https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
 #EXTINF:-1, Star Gold HD HOTSTAR
 http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_1800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0"
+#EXTINF:-1, Star Goldselect 4k
+http://185.59.222.236:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/tracks-v1a1/mono.m3u8?token=RED_R32TA8qe3X1isU41Qvj9YQ%3D%3D%2C1587217730.1679989495
+EXTINF:-1,UTV HD
+http://185.59.222.236:2200/R-EX/HINDI_UTV_HD-in/tracks-v1a1/mono.m3u8?token=RED_R32TA8qe3X1isU41Qvj9YQ%3D%3D%2C1587217730.1679989495
+#EXTINF:-1,UTV Action
+http://185.246.210.52:2200/R-EX/HINDI_UTV_ACTION-in/tracks-v1a1/mono.m3u8?token=RED_-y7OExKnJsJkycrfwlw86Q==,1587088800.0123456789
 #EXTINF:-1,Shemaroo BOLLYWOOD PREMIER 
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/playlist_cf.m3u8
 #EXTINF:-1,Shemaroo BOLLYWOOD CLASSIC
@@ -278,8 +291,8 @@ http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8
 http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/index_2128_av-p.m3u8
 #EXTINF:-1,E-24
 https://m-c29-j2apps.s.llnwi.net/hls/0389.E24.in_360p/index.m3u8
-
-
+#EXTINF:-1,MTUNES PLUS
+http://185.246.210.55:2200/R-EX/HINDI_MTUNES_PLUS-in/tracks-v1a1/mono.m3u8?token=RED_NDL90uQPjJSY_bsHAeDjTg%3D%3D%2C1587218005.1679989495
 #EXTINF:-1,SONY SIX HD 
 https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa
 #EXTINF:-1,STAR SPORTS1 HD HINDI
@@ -389,7 +402,11 @@ http://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/master.m3u8
 #EXTINF:-1,AXN FHD 
 https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa
 #EXTINF:-1,AXN 
-http://210.210.155.66/h/h141/01.m3u8 
+http://210.210.155.66/h/h141/01.m3u8
+#EXTINF:-1,HBO HD
+http://185.246.210.54:2200/R-EX/ENGLISH_HBO_HD-in/tracks-v1a1/mono.m3u8?token=RED_OM69bckJM1ixtGjZ_JT3HQ%3D%3D%2C1587217934.1679989495
+#EXTINF:-1,STAR MOVIES 4K
+http://185.59.222.171:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/tracks-v1a1/mono.m3u8?token=RED_X4-FZmbINak4BNyN5N9WWg%3D%3D%2C1587217885.1679989495
 #EXTINF:-1,&Flix HD 
 http://bolly360.xyz/zee.php?c=andflixhd&e=.m3u8
 #EXTINF:-1,MGM US
@@ -401,6 +418,7 @@ http://bolly360.xyz/zee.php?c=andprivehd&e=.m3u8
 #EXTINF:0, ENGLISH MOVIES
 http://stitcher.pluto.tv/stitch/hls/channel/553838c8c0b860c11a631f3a/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7caa3c2a-5d15-4c91-b093-7f93176fc22c&deviceId=08d323bf-061e-42cd-8a37-db1664fdefe4&deviceVersion=63.0&appVersion=2.2.1&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStor
 #EXTINF:0,MOVIES NOW
+http://185.246.210.53:2200/R-EX/HINDI_MOVIES_NOW_HD-in/tracks-v1a1/mono.m3u8?token=RED_WdiEo2wwHPDHfi-XatQe0Q%3D%3D%2C1587222019.1679989495
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:0,MNX 
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
@@ -463,7 +481,8 @@ http://wma10.fluidstream.net:1935/HistoryLab/livestream/chunklist_w1659750600.m3
 #EXTINF:0,CGTN Documentary Aus.
 http://live.cgtn.com/cctv-d.m3u8
 
-
+#EXTINF:0,Nat Geo 4K
+http://51.178.220.156/?watch=R-EX/HINDI_NAT_GEO_HD-in&token=RED_m4NjPb61hSPTyR7Dmz0e2Q==,1587218144.1679989495&t=1&s=2&p=1&c=TR&r=19
 
 #EXTINF:0,FTV High
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
@@ -487,10 +506,14 @@ https://streamidvo.multitvsolution.in/live/PTunes-d/p4.m3u8
 #EXTINF:0, FASTWAY NEWS
 http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8
 
-#EXTINF:0, Zee Telugu
+#EXTINF:0, Zee Telugu HD
+http://51.178.220.156/?watch=R-EX/TELUGU_ZEE_TELUGU_HD-in&token=RED_m4NjPb61hSPTyR7Dmz0e2Q==,1587218144.1679989495&t=1&s=2&p=1&c=TR&r=19
+
 http://bolly360.xyz/zee.php?c=zeetelugusd&e=.m3u8
 #EXTINF:0, Zee Tamil
 http://bolly360.xyz/zee.php?c=zeetamil&e=.m3u8
+#EXTINF:0,SUN TV Tamil
+http://51.178.220.156/?watch=R-EX/TAMIL_SUN_TV_HD-in&token=RED_m4NjPb61hSPTyR7Dmz0e2Q==,1587218144.1679989495&t=1&s=2&p=1&c=TR&r=19
 
 #EXTINF:0, Zee cinemalu
 http://bolly360.xyz/zee.php?c=zcinemalusd&e=.m3u8
