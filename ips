@@ -27,10 +27,10 @@ https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
 http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_1800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0"
 #EXTINF:-1, Star Bharat ip
 http://109.169.56.170/hls/lifeok.m3u8|user-agent=oxoo/3.0.1 (Linux;Android 9) ExoPlayerLib/2.7.3
+#EXTINF:-1, Star Bharat Tsky
+http://51.178.220.156/?watch=R-EX/HINDI_STAR_BHARAT_HD-in&token=RED_m4NjPb61hSPTyR7Dmz0e2Q==,1587218144.1679989495&t=1&s=2&p=1&c=TR&r=19
 #EXTINF:-1, Star Utsav
 http://starutsav-i.akamaihd.net/hls/live/569923-b/starutsav/master_1200.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
-#EXTINF:-1, SAB TV SD
-https://streamer-1.toffeelive.com/live/sony_sab_576/index.m3u8
 #EXTINF:-1, SAB TV FHD 
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa
 #EXTINF:-1, SONY FHD 
@@ -106,6 +106,8 @@ EXTINF:-1,UTV HD
 http://185.59.222.236:2200/R-EX/HINDI_UTV_HD-in/tracks-v1a1/mono.m3u8?token=RED_R32TA8qe3X1isU41Qvj9YQ%3D%3D%2C1587217730.1679989495
 #EXTINF:-1,UTV Action
 http://185.246.210.52:2200/R-EX/HINDI_UTV_ACTION-in/tracks-v1a1/mono.m3u8?token=RED_-y7OExKnJsJkycrfwlw86Q==,1587088800.0123456789
+#EXTINF:-1,Miniplex HD
+http://51.178.220.156/?watch=R-EX/HINDI_MINIPLEX_HD-in&token=RED_m4NjPb61hSPTyR7Dmz0e2Q==,1587218144.1679989495&t=1&s=2&p=1&c=TR&r=19
 #EXTINF:-1,Shemaroo BOLLYWOOD PREMIER 
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/playlist_cf.m3u8
 #EXTINF:-1,Shemaroo BOLLYWOOD CLASSIC
@@ -514,6 +516,10 @@ http://bolly360.xyz/zee.php?c=zeetelugusd&e=.m3u8
 http://bolly360.xyz/zee.php?c=zeetamil&e=.m3u8
 #EXTINF:0,SUN TV Tamil
 http://51.178.220.156/?watch=R-EX/TAMIL_SUN_TV_HD-in&token=RED_m4NjPb61hSPTyR7Dmz0e2Q==,1587218144.1679989495&t=1&s=2&p=1&c=TR&r=19
+#EXTINF:0,STAR MAA
+http://51.178.220.156/?watch=R-EX/TELUGU_STAR_MAA_HD-in&token=RED_m4NjPb61hSPTyR7Dmz0e2Q==,1587218144.1679989495&t=1&s=2&p=1&c=TR&r=19
+#EXTINF:0,STAR MAA MOVIES
+http://185.59.222.236:2200/R-EX/TELUGU_STAR_MAA_MOVIES_HD-in/tracks-v1a1/mono.m3u8?token=RED_DPHF-6mCAl3w4pAXIiab0w%3D%3D%2C1587255577.1679989495
 
 #EXTINF:0, Zee cinemalu
 http://bolly360.xyz/zee.php?c=zcinemalusd&e=.m3u8
