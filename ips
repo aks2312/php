@@ -8,7 +8,7 @@ http://bolly360.xyz/zee.php?c=out/v1/061be0ece7a849939ac2d9031f8fc532&e=index_6.
 #EXTINF:-1,DD National MX
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index.m3u8
 #EXTINF:-1, Zeetv 4k
-http://89.187.169.204:2200/R-EX/HINDI_ZEE_TV_HD-in/tracks-v1a1/mono.m3u8?token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495|User-Agent: VLC/3.0.7.1 LibVLC/3.0.7.1
+http://89.187.169.204:2200/R-EX/HINDI_ZEE_TV_HD-in/tracks-v1a1/mono.m3u8?token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495
 #EXTINF:-1, Epic tv
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 #EXTINF:-1, ZEE TV HD 
@@ -28,7 +28,7 @@ http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_1800.m3u8|use
 #EXTINF:-1, Star Bharat ip
 http://109.169.56.170/hls/lifeok.m3u8|user-agent=oxoo/3.0.1 (Linux;Android 9) ExoPlayerLib/2.7.3
 #EXTINF:-1, Star Bharat Tsky
-http://51.178.220.156/?watch=R-EX/HINDI_STAR_BHARAT_HD-in&token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495|User-Agent: VLC/3.0.7.1 LibVLC/3.0.7.1
+http://51.178.220.156/?watch=R-EX/HINDI_STAR_BHARAT_HD-in&token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495
 #EXTINF:-1, Star Utsav
 http://starutsav-i.akamaihd.net/hls/live/569923-b/starutsav/master_1200.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
 #EXTINF:-1, SAB TV FHD 
@@ -44,7 +44,7 @@ https://bracnet.iptv.jadoodigital.com/live/colors_hd/chunks.m3u8
 #EXTINF:-1, Colors HD (B)
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:-1, Apka Colors 4k
-http://89.187.169.204:2200/R-EX/HINDI_COLORS_HD-in/tracks-v1a1/mono.m3u8?token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495|User-Agent: VLC/3.0.7.1 LibVLC/3.0.7.1
+http://89.187.169.204:2200/R-EX/HINDI_COLORS_HD-in/tracks-v1a1/mono.m3u8?token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495
 http://ok2.se:8000/live/35b8F1UxvM5ef5gbw/8272F1UYi5JY3e32s/6902.ts
 #EXTINF:-1,Big magic 
 http://bolly360.xyz/zee.php?c=bigmagic&e=.m3u8
@@ -63,7 +63,7 @@ http://bolly360.xyz/zee.php?c=andpicssd&e=.m3u8
 #EXTINF:-1,&pictures HD 
 http://bolly360.xyz/zee.php?c=andpicshd&e=.m3u8
 #EXTINF:-1,&pictures HD new
-http://89.187.169.202:2200/R-EX/HINDI_AND_PICTURES_HD-in/tracks-v1a1/mono.m3u8?token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495|User-Agent: VLC/3.0.7.1 LibVLC/3.0.7.1
+http://89.187.169.202:2200/R-EX/HINDI_AND_PICTURES_HD-in/tracks-v1a1/mono.m3u8?token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495
 #EXTINF:-1,Zee Bollywood 
 http://bolly360.xyz/zee.php?c=classic&e=.m3u8
 #EXTINF:-1,Zee Bollywood ip
@@ -79,13 +79,11 @@ https://streamer-1.toffeelive.com/live/zee_cinema_576/index.m3u8
 #EXTINF:-1,ZEE CINEMA HD
 http://bolly360.xyz/zee.php?c=zcinemahd&e=.m3u8
 #EXTINF:-1,ZEE CINEMA 4k
-http://185.59.222.236:2200/R-EX/HINDI_ZEE_CINEMA_HD-in/tracks-v1a1/mono.m3u8?token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495|User-Agent: VLC/3.0.7.1 LibVLC/3.0.7.1
+http://185.59.222.236:2200/R-EX/HINDI_ZEE_CINEMA_HD-in/tracks-v1a1/mono.m3u8?token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495
 #EXTINF:-1,SONY WAH 
 https://sony247channels.akamaized.net/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa
 #EXTINF:-1,SET MAX FHD
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa
-#EXTINF:-1,SET MAX HD 
-https://streamer-1.toffeelive.com/live/set_max_hd_576/index.m3u8?token=a700c2740eda36dc9f8a6155b0d28c1b"
 #EXTINF:-1,SONY MAX SD
 https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8??hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa
 #EXTINF:-1, Sony MAX2
@@ -93,7 +91,7 @@ https://sony247channels.akamaized.net/hls/live/2009816/MAX2/master.m3u8?hdnea=ex
 #EXTINF:-1, Sony MAX2 MX
 https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_480p/index.m3u8
 #EXTINF:-1,STAR GOLD TSKY
-http://51.178.220.156/?watch=R-EX/HINDI_STAR_GOLD_HD-in&token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495|User-Agent: VLC/3.0.7.1 LibVLC/3.0.7.1
+http://51.178.220.156/?watch=R-EX/HINDI_STAR_GOLD_HD-in&token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495
 #EXTINF:-1,STAR GOLD 
 https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
 #EXTINF:-1,STAR GOLD2
@@ -101,15 +99,15 @@ https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
 #EXTINF:-1, Star Gold HD HOTSTAR
 http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_1800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0"
 #EXTINF:-1, Star Goldselect 4k
-http://185.59.222.236:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/tracks-v1a1/mono.m3u8?token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495|User-Agent: VLC/3.0.7.1 LibVLC/3.0.7.1
+http://185.59.222.236:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/tracks-v1a1/mono.m3u8?token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495
 EXTINF:-1,UTV HD
-http://185.59.222.236:2200/R-EX/HINDI_UTV_HD-in/tracks-v1a1/mono.m3u8?token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495|User-Agent: VLC/3.0.7.1 LibVLC/3.0.7.1
+http://185.59.222.236:2200/R-EX/HINDI_UTV_HD-in/tracks-v1a1/mono.m3u8?token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495
 #EXTINF:-1,UTV Action
-http://185.246.210.52:2200/R-EX/HINDI_UTV_ACTION-in/tracks-v1a1/mono.m3u8?token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495|User-Agent: VLC/3.0.7.1 LibVLC/3.0.7.1
+http://185.246.210.52:2200/R-EX/HINDI_UTV_ACTION-in/tracks-v1a1/mono.m3u8?token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495
 #EXTINF:-1,Miniplex HD
-http://51.178.220.156/?watch=R-EX/HINDI_MINIPLEX_HD-in&token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495|User-Agent: VLC/3.0.7.1 LibVLC/3.0.7.1
+http://51.178.220.156/?watch=R-EX/HINDI_MINIPLEX_HD-in&token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495
 #EXTINF:-1,CINEPLEX HD
-http://51.178.220.156/?watch=R-EX/HINDI_CINEPLEX_HD-in&token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495|User-Agent: VLC/3.0.7.1 LibVLC/3.0.7.1
+http://51.178.220.156/?watch=R-EX/HINDI_CINEPLEX_HD-in&token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495
 #EXTINF:-1,BBO CLASSIC
 http://50.7.198.106:25461/Ian90912/byrad2457/4840?token=GUBdUhEJF1sQUlNRA14CV1AGCAhXAABVWFJXAA1TBAFTBAQEUVZRAwRETRJBEhFQVQ5vUQAaX1BZAwIZGxZCABA9XFdAWxdSA1ZDHBASClhRQQoJUQBSVVgFBQcBTxMVCwYXCUBSDFQLV0McEAMbQVERXlkIZwEBF15RUBtZXxAODhkRDQ9qBVcLAF5WRFkXBUEcGg1LFUZbWUdZVU8TBwsWR1IWBBdbEFRZAQZETxdXDEVWEEocRlsVe3sbTxMAGhZQXREIWg8QXENEQURPF10Qb0oBSxEWBFZfUEtBC0dTQBkRDwBNPlEJD15XBRdcWw1DGl4aUFVDGxBYVg1YEQ0QakMLBRdbEFNTBAZEHg==
 #EXTINF:-1,Shemaroo BOLLYWOOD PREMIER 
@@ -279,8 +277,7 @@ http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.
 http://bolly360.xyz/zee.php?c=zing&e=.m3u8
 #EXTINF:-1, MTV beats 
 https://bracnet.iptv.jadoodigital.com/live/mtv_beats/chunks.m3u8
-#EXTINF:-1,9XM ST
-https://streamer-1.toffeelive.com/live/9xm_576/index.m3u8
+
 #EXTINF:-1,ZOOM-1
 http://livecdnh1.tvanywhere.ae/hls/zoom/04.m3u8
 #EXTINF:-1,ZOOM-2
@@ -298,7 +295,7 @@ http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/index_2128_av-p.m3u8
 #EXTINF:-1,E-24
 https://m-c29-j2apps.s.llnwi.net/hls/0389.E24.in_360p/index.m3u8
 #EXTINF:-1,MTUNES PLUS
-http://185.246.210.55:2200/R-EX/HINDI_MTUNES_PLUS-in/tracks-v1a1/mono.m3u8?token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495|User-Agent: VLC/3.0.7.1 LibVLC/3.0.7.1
+http://185.246.210.55:2200/R-EX/HINDI_MTUNES_PLUS-in/tracks-v1a1/mono.m3u8?token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495
 #EXTINF:-1,SONY SIX HD 
 https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa
 #EXTINF:-1,STAR SPORTS1 HD HINDI
@@ -410,9 +407,9 @@ https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=e
 #EXTINF:-1,AXN 
 http://210.210.155.66/h/h141/01.m3u8
 #EXTINF:-1,HBO HD
-http://185.246.210.54:2200/R-EX/ENGLISH_HBO_HD-in/tracks-v1a1/mono.m3u8?token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495|User-Agent: VLC/3.0.7.1 LibVLC/3.0.7.1
+http://185.246.210.54:2200/R-EX/ENGLISH_HBO_HD-in/tracks-v1a1/mono.m3u8?token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495
 #EXTINF:-1,STAR MOVIES 4K
-http://185.59.222.171:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/tracks-v1a1/mono.m3u8?token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495|User-Agent: VLC/3.0.7.1 LibVLC/3.0.7.1
+http://185.59.222.171:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/tracks-v1a1/mono.m3u8?token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495
 #EXTINF:-1,&Flix HD 
 http://bolly360.xyz/zee.php?c=andflixhd&e=.m3u8
 #EXTINF:-1,MGM US
@@ -424,7 +421,7 @@ http://bolly360.xyz/zee.php?c=andprivehd&e=.m3u8
 #EXTINF:0, ENGLISH MOVIES
 http://stitcher.pluto.tv/stitch/hls/channel/553838c8c0b860c11a631f3a/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7caa3c2a-5d15-4c91-b093-7f93176fc22c&deviceId=08d323bf-061e-42cd-8a37-db1664fdefe4&deviceVersion=63.0&appVersion=2.2.1&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStor
 #EXTINF:0,MOVIES NOW
-http://185.246.210.53:2200/R-EX/HINDI_MOVIES_NOW_HD-in/tracks-v1a1/mono.m3u8?token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495|User-Agent: VLC/3.0.7.1 LibVLC/3.0.7.1
+http://185.246.210.53:2200/R-EX/HINDI_MOVIES_NOW_HD-in/tracks-v1a1/mono.m3u8?token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:0,MNX 
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
@@ -488,7 +485,7 @@ http://wma10.fluidstream.net:1935/HistoryLab/livestream/chunklist_w1659750600.m3
 http://live.cgtn.com/cctv-d.m3u8
 
 #EXTINF:0,Nat Geo 4K
-http://51.178.220.156/?watch=R-EX/HINDI_NAT_GEO_HD-in&token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495|User-Agent: VLC/3.0.7.1 LibVLC/3.0.7.1
+http://51.178.220.156/?watch=R-EX/HINDI_NAT_GEO_HD-in&token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495
 
 #EXTINF:0,FTV High
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
@@ -513,17 +510,17 @@ https://streamidvo.multitvsolution.in/live/PTunes-d/p4.m3u8
 http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8
 
 #EXTINF:0, Zee Telugu HD
-http://51.178.220.156/?watch=R-EX/TELUGU_ZEE_TELUGU_HD-in&token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495|User-Agent: VLC/3.0.7.1 LibVLC/3.0.7.1
+http://51.178.220.156/?watch=R-EX/TELUGU_ZEE_TELUGU_HD-in&token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495
 
 http://bolly360.xyz/zee.php?c=zeetelugusd&e=.m3u8
 #EXTINF:0, Zee Tamil
 http://bolly360.xyz/zee.php?c=zeetamil&e=.m3u8
 #EXTINF:0,SUN TV Tamil
-http://51.178.220.156/?watch=R-EX/TAMIL_SUN_TV_HD-in&token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495|User-Agent: VLC/3.0.7.1 LibVLC/3.0.7.1
+http://51.178.220.156/?watch=R-EX/TAMIL_SUN_TV_HD-in&token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495
 #EXTINF:0,STAR MAA
-http://51.178.220.156/?watch=R-EX/TELUGU_STAR_MAA_HD-in&token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495|User-Agent: VLC/3.0.7.1 LibVLC/3.0.7.1
+http://51.178.220.156/?watch=R-EX/TELUGU_STAR_MAA_HD-in&token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495
 #EXTINF:0,STAR MAA MOVIES
-http://185.59.222.236:2200/R-EX/TELUGU_STAR_MAA_MOVIES_HD-in/tracks-v1a1/mono.m3u8?token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495|User-Agent: VLC/3.0.7.1 LibVLC/3.0.7.1
+http://185.59.222.236:2200/R-EX/TELUGU_STAR_MAA_MOVIES_HD-in/tracks-v1a1/mono.m3u8?token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495
 
 #EXTINF:0, Zee cinemalu
 http://bolly360.xyz/zee.php?c=zcinemalusd&e=.m3u8
@@ -536,8 +533,8 @@ http://bolly360.xyz/zee.php?c=rajmusix&e=.m3u8
 http://bolly360.xyz/zee.php?c=rajmusixtel&e=.m3u8
 
 #EXTINF:0,GEMINI HD
-http://51.178.220.156/?watch=R-EX/TELUGU_GEMINI_HD-in&token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495|User-Agent: VLC/3.0.7.1 LibVLC/3.0.7.1
+http://51.178.220.156/?watch=R-EX/TELUGU_GEMINI_HD-in&token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495
 
 #EXTINF:0,GEMINI MOVIES HD
-http://51.178.220.156/?watch=R-EX/TELUGU_GEMINI_MOVIES_HD-in&token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495|User-Agent: VLC/3.0.7.1 LibVLC/3.0.7.1
+http://51.178.220.156/?watch=R-EX/TELUGU_GEMINI_MOVIES_HD-in&token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495
 
