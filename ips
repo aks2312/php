@@ -8,7 +8,7 @@ http://bolly360.xyz/zee.php?c=out/v1/061be0ece7a849939ac2d9031f8fc532&e=index_6.
 #EXTINF:-1,DD National MX
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index.m3u8
 #EXTINF:-1, Zeetv 4k
-http://89.187.169.204:2200/R-EX/HINDI_ZEE_TV_HD-in/tracks-v1a1/mono.m3u8?token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495
+http://ok2.se:8000/live/35b8F1UxvM5ef5gbw/8272F1UYi5JY3e32s/8706.ts
 #EXTINF:-1, Epic tv
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 #EXTINF:-1, ZEE TV HD 
@@ -47,12 +47,14 @@ https://bracnet.iptv.jadoodigital.com/live/colors_hd/chunks.m3u8
 #EXTINF:-1, Colors HD (B)
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:-1, Apka Colors 4k
-http://89.187.169.204:2200/R-EX/HINDI_COLORS_HD-in/tracks-v1a1/mono.m3u8?token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495
 http://ok2.se:8000/live/35b8F1UxvM5ef5gbw/8272F1UYi5JY3e32s/6902.ts
 #EXTINF:-1,Big magic 
 http://bolly360.xyz/zee.php?c=bigmagic&e=.m3u8
 #EXTINF:-1,ZEE ANMOL 
 http://bolly360.xyz/zee.php?c=zeeanmol&e=.m3u8
+#EXTINF:-1,Colors rishtey UK
+http://livecdnh3.tvanywhere.ae/hls/rishtey/04.m3u8
+
 #EXTINF:-1,&TV 
 http://bolly360.xyz/zee.php?c=andtvsd&e=.m3u8
 #EXTINF:-1,&TV HD
@@ -77,38 +79,40 @@ http://bolly360.xyz/zee.php?c=action&e=.m3u8
 http://bolly360.xyz/zee.php?c=zanmolcnm&e=.m3u8
 #EXTINF:-1,ZEE cinema
 https://bracnet.iptv.jadoodigital.com/live/zee_cinema/chunks.m3u8
-#EXTINF:-1,ZEE cinema SD
-https://streamer-1.toffeelive.com/live/zee_cinema_576/index.m3u8
+#EXTINF:-1,ZEE cinema 2k
+http://ok2.se:8000/live/35b8F1UxvM5ef5gbw/8272F1UYi5JY3e32s/1197.ts
 #EXTINF:-1,ZEE CINEMA HD
 http://bolly360.xyz/zee.php?c=zcinemahd&e=.m3u8
 #EXTINF:-1,ZEE CINEMA 4k
-http://185.59.222.236:2200/R-EX/HINDI_ZEE_CINEMA_HD-in/tracks-v1a1/mono.m3u8?token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495
+http://ok2.se:8000/live/35b8F1UxvM5ef5gbw/8272F1UYi5JY3e32s/6895.ts
 #EXTINF:-1,SONY WAH 
 https://sony247channels.akamaized.net/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa
 #EXTINF:-1,SET MAX FHD
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa
+#EXTINF:-1,SET MAX sd UK
+http://ok2.se:8000/live/35b8F1UxvM5ef5gbw/8272F1UYi5JY3e32s/9631.ts
+#EXTINF:-1,SET MAX HD UK
+http://cdn.fr01.spr24.net/22552/mono.m3u8?token=BQF9PmuRpcxUqR&
 #EXTINF:-1,SONY MAX SD
 https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8??hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa
 #EXTINF:-1, Sony MAX2
 https://sony247channels.akamaized.net/hls/live/2009816/MAX2/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne/master_3500.m3u8
 #EXTINF:-1, Sony MAX2 MX
 https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_480p/index.m3u8
-#EXTINF:-1,STAR GOLD TSKY
-http://51.178.220.156/?watch=R-EX/HINDI_STAR_GOLD_HD-in&token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495
+#EXTINF:-1,STAR GOLD HD
+http://ddn.amrbd.com:8081/live/stargold/playlist.m3u8
 #EXTINF:-1,STAR GOLD 
 https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
 #EXTINF:-1,STAR GOLD2
 https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
 #EXTINF:-1, Star Gold HD HOTSTAR
 http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_1800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0"
-#EXTINF:-1, Star Goldselect 4k
-http://185.59.222.236:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/tracks-v1a1/mono.m3u8?token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495
+#EXTINF:-1, Star Gold UK
+http://cdn.fr01.spr24.net/22554/mono.m3u8?token=BQF9PmuRpcxUqR&
 EXTINF:-1,UTV HD
 http://185.59.222.236:2200/R-EX/HINDI_UTV_HD-in/tracks-v1a1/mono.m3u8?token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495
 #EXTINF:-1,UTV Action
 http://50.7.198.106:25461/Ian90912/byrad2457/4625?token=GUBdUhEJF1sQUlNRA14CV1AGCAhXAABVWFJXAA1TBAFTBAQEUVZRAwRETRJBEhFQVQ5vUQAaX1BZAwIZGxZCABA9XFdAWxdSA1ZDHBASClhRQQoJUQBSVVgFBQcBTxMVCwYXCUBSDFQLV0McEAMbQVERXlkIZwEBF15RUBtZXxAODhkRDQ9qBVcLAF5WRFkXBUEcGg1LFUZbWUdZVU8TBwsWR1IWBBdbEFRZAQZETxdXDEVWEEocRlsVe3sbTxMAGhZQXREIWg8QXENEQURPF10Qb0oBSxEWBFZfUEtBC0dTQBkRDwBNPlEJD15XBRdcWw1DGl4aUFVDGxBYVg1YEQ0QakMLBRdbEFNTBAZEHg==
-
-(http://185.246.210.52:2200/R-EX/HINDI_UTV_ACTION-in/tracks-v1a1/mono.m3u8?token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495)
 #EXTINF:-1,Miniplex HD
 http://51.178.220.156/?watch=R-EX/HINDI_MINIPLEX_HD-in&token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495
 #EXTINF:-1,CINEPLEX HD
@@ -116,9 +120,9 @@ http://51.178.220.156/?watch=R-EX/HINDI_CINEPLEX_HD-in&token=RED_V9qkhFHsqH4Keyx
 #EXTINF:-1,BBO CLASSIC
 http://50.7.198.106:25461/Ian90912/byrad2457/4840?token=GUBdUhEJF1sQUlNRA14CV1AGCAhXAABVWFJXAA1TBAFTBAQEUVZRAwRETRJBEhFQVQ5vUQAaX1BZAwIZGxZCABA9XFdAWxdSA1ZDHBASClhRQQoJUQBSVVgFBQcBTxMVCwYXCUBSDFQLV0McEAMbQVERXlkIZwEBF15RUBtZXxAODhkRDQ9qBVcLAF5WRFkXBUEcGg1LFUZbWUdZVU8TBwsWR1IWBBdbEFRZAQZETxdXDEVWEEocRlsVe3sbTxMAGhZQXREIWg8QXENEQURPF10Qb0oBSxEWBFZfUEtBC0dTQBkRDwBNPlEJD15XBRdcWw1DGl4aUFVDGxBYVg1YEQ0QakMLBRdbEFNTBAZEHg==
 #EXTINF:-1,Shemaroo BOLLYWOOD PREMIER 
-https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/playlist_cf.m3u8
+https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
 #EXTINF:-1,Shemaroo BOLLYWOOD CLASSIC
-https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/playlist_cf.m3u8
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
 #EXTINF:-1, BOLLYWOOD CLASSIC-2 
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1, Manoranjan TV
@@ -139,6 +143,8 @@ https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in_480p/index.m3u8
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
 #EXTINF:-1, MBC Bollywood
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
+#EXTINF:-1, Bollywood HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
 #EXTINF:-1, Housefull Movies
 https://m-c04-j2apps.s.llnwi.net/hls/7000.HousefullMovie.in_480p/index.m3u8
 #EXTINF:-1, Bollywood.in
@@ -157,11 +163,14 @@ https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in_480p/index.m3u8
 http://streamidvo.multitvsolution.in/live/MahaMovie-a/p4.m3u8 
 #EXTINF:-1, BOLLYWOOD CLASSIC-1 
 https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
+#EXTINF:-1, Anjan
+https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/chunklist_w1499288356_b1580000.m3u8
 #EXTINF:-1, JOO MUSIC
 https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
 #EXTINF:-1, ZEE BIOSKOPE
 https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1582800787~exp=9007200837541778~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=3373fc972a6042253eb502f2a58546528e7a4c781c77664892a7a60985d54e3c&hdnts=st=1582800786~exp=1582800906~acl=/*~id=2515e6bc-88e0-4d01-80b8-c4a4ab64ff06~data=36.77.80.127~hmac=0f41a0b2c9d384b7b76cca94395bf0ebe4cc2e277c41eaeb7dbef2279a6550a7
-
+#EXTINF:-1, Movies express
+http://bbnnews.livebox.co.in/Movieexpresshls/live.m3u8
 #EXTINF:-1,AAJTAK HD
 https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakevent/aajtak_6/chunklist.m3u8
 #EXTINF:-1,SAHARA SAMAY
@@ -270,6 +279,8 @@ https://abp-i.akamaihd.net/hls/live/765531/abpmajha/masterhls_1564.m3u8
 http://sudarshan.live/hls/sudarshannews/index.m3u8?_=1582988583335
 #EXTINF:-1, TIMES NOW
 http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+#EXTINF:-1, Fox news
+https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/master.m3u8?idp_name=hotstar&hdnea=st=1587454528~exp=1587455128~acl=/hls/live/263399/FNCGOHLSv2/*~data=ip=02019abb8e2b3e21104aa652136c738bb861346fb5a5544c045afb978dd3-userid=3053e8c6be895bb3fe46463044417985aecbb412b3bdbe8e14a69df186800346~hmac=90a8101874968a07d2b7cba7ee3afacbd896da8a95b7ef2605ec2b856d8f5cab
 #EXTINF:-1,Mastii
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1,9XM zee
@@ -304,6 +315,8 @@ http://185.246.210.55:2200/R-EX/HINDI_MTUNES_PLUS-in/tracks-v1a1/mono.m3u8?token
 #EXTINF:-1,MTV INDIA SD
 http://104.218.60.83:25461/51839784/71484553/379982?token=Q0ZaWEpdEAkSU1dQBgFVB1BWB1YFVFAACVUEA1QBUgdaUgJcCQIKBFRBThRATRYGUAxtXVYUCFcJAwRWABwWF0sBQGZQURAJElJTAwELVlETTRBAW1tXRgsCAVkCAwNWAVQEFRtFW1cSWUACCg9dUhNNEFFKQlcWX1JYPlFVQgtbARADV0BeXxxBDVhsXQEOUA9WFggUA0YdEV0SRRIODE0IXhUbV1tHQgIWUxEDRlIEVAYWHhRRC0RdQBNMEg5AcSoQFRtQSkdVDRFfXFdGWRMVQRYeFFsXbkFREkFCUQNVAUAbAxcCERxBD1dLZgcMXw9XV0ZfXQpCEQ5DBAAWThoJXVdQQV1BbxMLUhEDRlcIVwoGEEs=
 #EXTINF:-1,willow Hd
+http://ok2.se:8000/live/35b8F1UxvM5ef5gbw/8272F1UYi5JY3e32s/198.ts
+
 http://104.218.60.83:25461/51839784/71484553/379998?token=Q0ZaWEpdEAkSW1dTAQtWUwACU1YHBAFXB1dRVwABBVEBBQdfCA1UBVVBThRATRYGUAxtXVYUCFcGCg1YDRwWF0sBQGZQURAJElJTAwELVlETTRBAW1tXRgsCAVkCAQ1TAVIAFRtFW1cSWUACBABXVBNNEFFKQlcWX1JYPlFVQgtbARADV0BeXxxBDVhsXQEOUA9WFggUA0YdEV0SRRIODE0IXhUbV1tHQgIWUxEDRlEFVwQWHhRRC0RdQBNMEg5AcSoQFRtQSkdVDRFfXFdGWRMVQRYeFFsXbkFREkFCUQNVAUAbAxcCERxBD1dLZgcMXw9XV0ZfXQpCEQ5DBAAWThoJXVdQQV1BbxMLUhEDRlsDUAEDEEs=
 #EXTINF:-1,SONY SIX HD 
 https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa
@@ -495,7 +508,8 @@ http://live.cgtn.com/cctv-d.m3u8
 
 #EXTINF:0,Nat Geo 4K
 http://51.178.220.156/?watch=R-EX/HINDI_NAT_GEO_HD-in&token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495
-
+#EXTINF:0,Nat Geo wild HD
+https://cdn1.mobiletv.bg/T14/ATV/ngc_wild_hd/ngc_wild_hd_ATV987654321.m3u8
 #EXTINF:0,FTV High
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:0,Fashion TV Midnite
@@ -524,6 +538,8 @@ http://51.178.220.156/?watch=R-EX/TELUGU_ZEE_TELUGU_HD-in&token=RED_V9qkhFHsqH4K
 http://bolly360.xyz/zee.php?c=zeetelugusd&e=.m3u8
 #EXTINF:0, Zee Tamil
 http://bolly360.xyz/zee.php?c=zeetamil&e=.m3u8
+#EXTINF:0,SUN TV HD
+http://siyatv.herokuapp.com/http://uk3.zecast.com:1935/star-live/sunhd$/chunklist_w1741040125.m3u8
 #EXTINF:0,SUN TV Tamil
 http://104.218.60.83:25461/51839784/71484553/380009?token=Q0ZaWEpdEAkSVQEBVQtSV1VUAVIHUwNVUgUCBFAIAAAAVwINXAdWAQRBThRATRYGUAxtXVYUCFcJAwRRDBwWF0sBQGZQURAJElJTAwELVlETTRBAW1tXRgsCAVkCAQ1RCVMCFRtFW1cSWUAFCgxTWxNNEFFKQlcWX1JYPlFVQgtbARADV0BeXxxBDVhsXQEOUA9WFggUA0YdEV0SRRIODE0IXhUbV1tHQgIWUxEDChZdDR4WUVlHCkVBTUMPEn0sGkgQXEFBV11DCg1YEQNGF0JDHhZbRW0WVEBAE1BRWQdKRggbCRceEV0CGmlQVgoNVAJGXV1YQUYLEQVRFxwWD1cKW01WR21DWQdADBEKXVYGVRBJ
 http://51.178.220.156/?watch=R-EX/TAMIL_SUN_TV_HD-in&token=RED_V9qkhFHsqH4KeyxALTaapw%3D%3D%2C1587296496.1679989495
