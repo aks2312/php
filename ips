@@ -104,6 +104,7 @@ http://ddn.amrbd.com:8081/live/stargold/playlist.m3u8
 #EXTINF:-1,STAR GOLD 
 https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
 #EXTINF:-1,STAR GOLD2
+http://channels.ooguy.com:80/auth?channel=StarGold2India&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
 #EXTINF:-1, Star Gold HD HOTSTAR
 http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_1800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0"
